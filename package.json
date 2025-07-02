@@ -1,0 +1,13 @@
+{
+  "name": "log-ingestion-and-querying-system",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "seed": "cd backend && bun seed",
+    "server": "cd backend && bun dev",
+    "client": "cd frontend && bun dev"
+  }
+}

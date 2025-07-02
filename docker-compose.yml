@@ -1,0 +1,31 @@
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - '3001:3001'
+    volumes:
+      - ./backend/logs.json:/app/logs.json
+    environment:
+      - NODE_ENV=production
+    networks:
+      - log-system
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - '3000:80'
+    depends_on:
+      - backend
+    environment:
+      - NODE_ENV=production
+      - VITE_API_URL=http://localhost:3001
+    networks:
+      - log-system
+
+networks:
+  log-system:
+    driver: bridge

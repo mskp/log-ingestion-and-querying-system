@@ -1,0 +1,4269 @@
+[
+  {
+    "level": "debug",
+    "message": "Request processing completed",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T06:38:00.371Z",
+    "traceId": "trace-16ij93hun",
+    "spanId": "span-6iluhy",
+    "commit": "olr0c7b",
+    "metadata": {
+      "userId": 784,
+      "requestId": "req-gqyevp1y",
+      "duration": 910,
+      "environment": "production",
+      "version": "v2.5.1"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.378Z"
+  },
+  {
+    "level": "warn",
+    "message": "Database connection established successfully",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T06:33:00.379Z",
+    "traceId": "trace-3v6t2lftx",
+    "spanId": "span-ryjkjt",
+    "commit": "8knacci",
+    "metadata": {
+      "userId": 615,
+      "requestId": "req-657jceae",
+      "duration": 505,
+      "environment": "production",
+      "version": "v4.5.0"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.395Z"
+  },
+  {
+    "level": "debug",
+    "message": "Disk space running low",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T06:13:00.397Z",
+    "traceId": "trace-pfxyl7f24",
+    "spanId": "span-qraegb",
+    "commit": "r4k89ov",
+    "metadata": {
+      "userId": 936,
+      "requestId": "req-6ixltuac",
+      "duration": 172,
+      "environment": "production",
+      "version": "v1.2.2"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.414Z"
+  },
+  {
+    "level": "debug",
+    "message": "Database connection established successfully",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T04:50:00.416Z",
+    "traceId": "trace-b1aur7z7n",
+    "spanId": "span-r7hsnu",
+    "commit": "cxwsbs6",
+    "metadata": {
+      "userId": 338,
+      "requestId": "req-e6iamopr",
+      "duration": 560,
+      "environment": "staging",
+      "version": "v2.3.8"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.448Z"
+  },
+  {
+    "level": "warn",
+    "message": "Network timeout occurred",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-01T22:10:00.449Z",
+    "traceId": "trace-stxwrlwnm",
+    "spanId": "span-y44m6y",
+    "commit": "dtwagfy",
+    "metadata": {
+      "userId": 422,
+      "requestId": "req-dbgr3emk",
+      "duration": 529,
+      "environment": "staging",
+      "version": "v2.8.3"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.469Z"
+  },
+  {
+    "level": "info",
+    "message": "SSL certificate renewal required",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T08:28:00.470Z",
+    "traceId": "trace-o43ei48lk",
+    "spanId": "span-cebmu3",
+    "commit": "bzud3wa",
+    "metadata": {
+      "userId": 882,
+      "requestId": "req-l87iurk4",
+      "duration": 871,
+      "environment": "staging",
+      "version": "v2.5.2"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.486Z"
+  },
+  {
+    "level": "warn",
+    "message": "Memory usage threshold exceeded",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T05:31:00.487Z",
+    "traceId": "trace-gblbb5y16",
+    "spanId": "span-41puz0",
+    "commit": "lu9ljhb",
+    "metadata": {
+      "userId": 914,
+      "requestId": "req-hurijb6b",
+      "duration": 895,
+      "environment": "staging",
+      "version": "v2.6.7"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.504Z"
+  },
+  {
+    "level": "info",
+    "message": "Cache invalidation triggered",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T05:57:00.504Z",
+    "traceId": "trace-pb7difniq",
+    "spanId": "span-yvh33q",
+    "commit": "rwbps66",
+    "metadata": {
+      "userId": 486,
+      "requestId": "req-1xyaoj5l",
+      "duration": 172,
+      "environment": "production",
+      "version": "v5.6.5"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.520Z"
+  },
+  {
+    "level": "info",
+    "message": "Network timeout occurred",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T17:52:00.521Z",
+    "traceId": "trace-68xr3u14u",
+    "spanId": "span-d3bhah",
+    "commit": "ncc72x7",
+    "metadata": {
+      "userId": 534,
+      "requestId": "req-ruxexx8l",
+      "duration": 601,
+      "environment": "staging",
+      "version": "v4.4.4"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.537Z"
+  },
+  {
+    "level": "info",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T00:06:00.538Z",
+    "traceId": "trace-aechn1ggh",
+    "spanId": "span-94asx4",
+    "commit": "pbvr8qd",
+    "metadata": {
+      "userId": 371,
+      "requestId": "req-wghkiju8",
+      "duration": 753,
+      "environment": "staging",
+      "version": "v3.7.9"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.555Z"
+  },
+  {
+    "level": "error",
+    "message": "Backup process initiated",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-01T23:58:00.556Z",
+    "traceId": "trace-45ribxyw8",
+    "spanId": "span-u5jvoq",
+    "commit": "mfz98rj",
+    "metadata": {
+      "userId": 518,
+      "requestId": "req-kq35g4od",
+      "duration": 322,
+      "environment": "production",
+      "version": "v1.0.5"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.572Z"
+  },
+  {
+    "level": "warn",
+    "message": "Request processing completed",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T00:26:00.573Z",
+    "traceId": "trace-habtewro9",
+    "spanId": "span-o1awyl",
+    "commit": "hlz9x4c",
+    "metadata": {
+      "userId": 521,
+      "requestId": "req-b9zskd4u",
+      "duration": 461,
+      "environment": "staging",
+      "version": "v2.0.8"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.591Z"
+  },
+  {
+    "level": "debug",
+    "message": "Request processing completed",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T05:43:00.593Z",
+    "traceId": "trace-9mtav7pyu",
+    "spanId": "span-yg7iqp",
+    "commit": "m5qk5a4",
+    "metadata": {
+      "userId": 188,
+      "requestId": "req-n2o9btmz",
+      "duration": 97,
+      "environment": "production",
+      "version": "v3.3.7"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.608Z"
+  },
+  {
+    "level": "error",
+    "message": "Error parsing JSON payload",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T13:25:00.610Z",
+    "traceId": "trace-p9piwd9rs",
+    "spanId": "span-8g38ar",
+    "commit": "s2u60h0",
+    "metadata": {
+      "userId": 933,
+      "requestId": "req-bt2ee234",
+      "duration": 632,
+      "environment": "staging",
+      "version": "v4.2.8"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.625Z"
+  },
+  {
+    "level": "warn",
+    "message": "Backup process initiated",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-01T21:50:00.626Z",
+    "traceId": "trace-gij00w0ra",
+    "spanId": "span-44z7qn",
+    "commit": "sjxwqfc",
+    "metadata": {
+      "userId": 310,
+      "requestId": "req-6og33nlz",
+      "duration": 673,
+      "environment": "staging",
+      "version": "v2.1.2"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.644Z"
+  },
+  {
+    "level": "debug",
+    "message": "Database connection established successfully",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T17:33:00.645Z",
+    "traceId": "trace-d4nja5hff",
+    "spanId": "span-6aflxn",
+    "commit": "shd250f",
+    "metadata": {
+      "userId": 862,
+      "requestId": "req-96tne54x",
+      "duration": 450,
+      "environment": "staging",
+      "version": "v5.4.6"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.666Z"
+  },
+  {
+    "level": "debug",
+    "message": "Failed to connect to external API",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T02:58:00.667Z",
+    "traceId": "trace-o4gmk5y0s",
+    "spanId": "span-km4oax",
+    "commit": "m91ny4p",
+    "metadata": {
+      "userId": 536,
+      "requestId": "req-owrgh6z0",
+      "duration": 775,
+      "environment": "production",
+      "version": "v2.5.6"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.683Z"
+  },
+  {
+    "level": "debug",
+    "message": "Background job completed successfully",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-01T21:05:00.684Z",
+    "traceId": "trace-c7lkqbzjj",
+    "spanId": "span-7lufhk",
+    "commit": "gf6nscc",
+    "metadata": {
+      "userId": 220,
+      "requestId": "req-g2xh9d1r",
+      "duration": 831,
+      "environment": "production",
+      "version": "v1.2.6"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.699Z"
+  },
+  {
+    "level": "debug",
+    "message": "Error parsing JSON payload",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-01T22:47:00.700Z",
+    "traceId": "trace-y5onqfqc4",
+    "spanId": "span-jpx3bv",
+    "commit": "xxx3kul",
+    "metadata": {
+      "userId": 252,
+      "requestId": "req-4p8hbhl2",
+      "duration": 664,
+      "environment": "production",
+      "version": "v3.5.2"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.717Z"
+  },
+  {
+    "level": "debug",
+    "message": "Disk space running low",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T10:19:00.718Z",
+    "traceId": "trace-w6j0q0tqj",
+    "spanId": "span-q47ktr",
+    "commit": "zmiz8ie",
+    "metadata": {
+      "userId": 794,
+      "requestId": "req-k8m4cebd",
+      "duration": 54,
+      "environment": "staging",
+      "version": "v4.8.4"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.733Z"
+  },
+  {
+    "level": "debug",
+    "message": "Disk space running low",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-01T19:22:00.734Z",
+    "traceId": "trace-hcamqs6i2",
+    "spanId": "span-r3cha8",
+    "commit": "4u07kvs",
+    "metadata": {
+      "userId": 330,
+      "requestId": "req-1kh8mhjw",
+      "duration": 128,
+      "environment": "production",
+      "version": "v3.2.5"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.751Z"
+  },
+  {
+    "level": "debug",
+    "message": "Failed to connect to external API",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T13:13:00.752Z",
+    "traceId": "trace-1cm6jygh0",
+    "spanId": "span-7x5yt3",
+    "commit": "is680h9",
+    "metadata": {
+      "userId": 168,
+      "requestId": "req-x7ze2q52",
+      "duration": 564,
+      "environment": "production",
+      "version": "v4.1.6"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.769Z"
+  },
+  {
+    "level": "warn",
+    "message": "User authentication completed",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T12:55:00.770Z",
+    "traceId": "trace-r3y3d9lft",
+    "spanId": "span-15v856",
+    "commit": "9wlg6h5",
+    "metadata": {
+      "userId": 12,
+      "requestId": "req-7cxmhda5",
+      "duration": 79,
+      "environment": "staging",
+      "version": "v4.2.4"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.789Z"
+  },
+  {
+    "level": "info",
+    "message": "Disk space running low",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T00:21:00.790Z",
+    "traceId": "trace-nw5e4rz32",
+    "spanId": "span-6404ni",
+    "commit": "mg9np52",
+    "metadata": {
+      "userId": 364,
+      "requestId": "req-uwjxv5gl",
+      "duration": 497,
+      "environment": "production",
+      "version": "v4.9.3"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.808Z"
+  },
+  {
+    "level": "debug",
+    "message": "Failed to connect to external API",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-01T19:04:00.809Z",
+    "traceId": "trace-7j3ywaj0q",
+    "spanId": "span-1vpv1e",
+    "commit": "dccg886",
+    "metadata": {
+      "userId": 80,
+      "requestId": "req-zinvb20h",
+      "duration": 717,
+      "environment": "production",
+      "version": "v2.4.9"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.827Z"
+  },
+  {
+    "level": "debug",
+    "message": "SSL certificate renewal required",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T08:37:00.828Z",
+    "traceId": "trace-976bhz5aw",
+    "spanId": "span-uqsoft",
+    "commit": "spgzqfk",
+    "metadata": {
+      "userId": 947,
+      "requestId": "req-0ltmvyr8",
+      "duration": 222,
+      "environment": "production",
+      "version": "v1.0.9"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.845Z"
+  },
+  {
+    "level": "error",
+    "message": "Request processing completed",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T15:32:00.846Z",
+    "traceId": "trace-8aol6z2av",
+    "spanId": "span-wv7mlp",
+    "commit": "chreaek",
+    "metadata": {
+      "userId": 961,
+      "requestId": "req-xs499udd",
+      "duration": 414,
+      "environment": "production",
+      "version": "v3.1.7"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.864Z"
+  },
+  {
+    "level": "debug",
+    "message": "Service health check passed",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T01:44:00.865Z",
+    "traceId": "trace-sekl8jiyf",
+    "spanId": "span-m5hg3q",
+    "commit": "dorz65m",
+    "metadata": {
+      "userId": 778,
+      "requestId": "req-s5ey9211",
+      "duration": 888,
+      "environment": "production",
+      "version": "v2.0.0"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.883Z"
+  },
+  {
+    "level": "warn",
+    "message": "Configuration updated successfully",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T15:30:00.884Z",
+    "traceId": "trace-rvz8qhp89",
+    "spanId": "span-bnt3o0",
+    "commit": "tkoppjf",
+    "metadata": {
+      "userId": 927,
+      "requestId": "req-ksp9636a",
+      "duration": 663,
+      "environment": "staging",
+      "version": "v1.9.1"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.901Z"
+  },
+  {
+    "level": "debug",
+    "message": "Configuration updated successfully",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T03:53:00.902Z",
+    "traceId": "trace-7p55d3kmq",
+    "spanId": "span-wk84g7",
+    "commit": "gt46iq1",
+    "metadata": {
+      "userId": 494,
+      "requestId": "req-zxgzkatz",
+      "duration": 242,
+      "environment": "production",
+      "version": "v5.7.0"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.919Z"
+  },
+  {
+    "level": "info",
+    "message": "Backup process initiated",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T15:53:00.920Z",
+    "traceId": "trace-9ivovd84j",
+    "spanId": "span-yoo55f",
+    "commit": "2lei1br",
+    "metadata": {
+      "userId": 85,
+      "requestId": "req-4gqbijy7",
+      "duration": 13,
+      "environment": "production",
+      "version": "v5.7.5"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.936Z"
+  },
+  {
+    "level": "debug",
+    "message": "Network timeout occurred",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T01:33:00.937Z",
+    "traceId": "trace-6cp7ucqfs",
+    "spanId": "span-5xybdf",
+    "commit": "2kl38pk",
+    "metadata": {
+      "userId": 127,
+      "requestId": "req-iq1le2n2",
+      "duration": 781,
+      "environment": "production",
+      "version": "v4.9.2"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.954Z"
+  },
+  {
+    "level": "debug",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T12:50:00.955Z",
+    "traceId": "trace-8q6ujjijc",
+    "spanId": "span-e0ngk1",
+    "commit": "bqhss4u",
+    "metadata": {
+      "userId": 174,
+      "requestId": "req-v349qbyi",
+      "duration": 925,
+      "environment": "staging",
+      "version": "v4.3.4"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.974Z"
+  },
+  {
+    "level": "info",
+    "message": "Network timeout occurred",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T13:01:00.975Z",
+    "traceId": "trace-zuol7fq0p",
+    "spanId": "span-1xytry",
+    "commit": "nrbawvm",
+    "metadata": {
+      "userId": 896,
+      "requestId": "req-ycyk0y2x",
+      "duration": 903,
+      "environment": "staging",
+      "version": "v4.8.9"
+    },
+    "_ingested_at": "2025-07-02T18:11:00.996Z"
+  },
+  {
+    "level": "warn",
+    "message": "Request processing completed",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T12:42:00.997Z",
+    "traceId": "trace-h83t4clou",
+    "spanId": "span-2kbp3a",
+    "commit": "2fu7syc",
+    "metadata": {
+      "userId": 430,
+      "requestId": "req-ekg6a4pj",
+      "duration": 183,
+      "environment": "staging",
+      "version": "v4.2.0"
+    },
+    "_ingested_at": "2025-07-02T18:11:01.017Z"
+  },
+  {
+    "level": "debug",
+    "message": "User authentication completed",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T10:20:01.018Z",
+    "traceId": "trace-5dw2hdrce",
+    "spanId": "span-1f5tte",
+    "commit": "mye7k7i",
+    "metadata": {
+      "userId": 17,
+      "requestId": "req-mjpxy4ra",
+      "duration": 197,
+      "environment": "staging",
+      "version": "v4.7.1"
+    },
+    "_ingested_at": "2025-07-02T18:11:01.035Z"
+  },
+  {
+    "level": "debug",
+    "message": "Error parsing JSON payload",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-01T20:05:01.036Z",
+    "traceId": "trace-suvxkj4ag",
+    "spanId": "span-zrncn4",
+    "commit": "6py7e9m",
+    "metadata": {
+      "userId": 937,
+      "requestId": "req-ej3noefe",
+      "duration": 600,
+      "environment": "staging",
+      "version": "v2.1.3"
+    },
+    "_ingested_at": "2025-07-02T18:11:01.052Z"
+  },
+  {
+    "level": "error",
+    "message": "Memory usage threshold exceeded",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T04:52:01.053Z",
+    "traceId": "trace-knbd3jgsg",
+    "spanId": "span-enu3py",
+    "commit": "publhqf",
+    "metadata": {
+      "userId": 415,
+      "requestId": "req-qcy0oeku",
+      "duration": 646,
+      "environment": "production",
+      "version": "v1.4.5"
+    },
+    "_ingested_at": "2025-07-02T18:11:01.069Z"
+  },
+  {
+    "level": "warn",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T17:43:01.070Z",
+    "traceId": "trace-f6jf1g3ip",
+    "spanId": "span-czw22a",
+    "commit": "6rmbto2",
+    "metadata": {
+      "userId": 82,
+      "requestId": "req-hi97lid5",
+      "duration": 566,
+      "environment": "production",
+      "version": "v1.3.9"
+    },
+    "_ingested_at": "2025-07-02T18:11:01.086Z"
+  },
+  {
+    "level": "error",
+    "message": "Request processing completed",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T08:30:01.087Z",
+    "traceId": "trace-2hxki6prb",
+    "spanId": "span-gz61ez",
+    "commit": "n3sgqnm",
+    "metadata": {
+      "userId": 291,
+      "requestId": "req-33mmqi63",
+      "duration": 576,
+      "environment": "staging",
+      "version": "v5.4.6"
+    },
+    "_ingested_at": "2025-07-02T18:11:01.104Z"
+  },
+  {
+    "level": "warn",
+    "message": "Error parsing JSON payload",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T03:56:01.105Z",
+    "traceId": "trace-5w3wy5i0j",
+    "spanId": "span-vfig63",
+    "commit": "g78z6e0",
+    "metadata": {
+      "userId": 804,
+      "requestId": "req-hfbul0rj",
+      "duration": 912,
+      "environment": "staging",
+      "version": "v4.7.4"
+    },
+    "_ingested_at": "2025-07-02T18:11:01.122Z"
+  },
+  {
+    "level": "error",
+    "message": "Backup process initiated",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T05:17:01.123Z",
+    "traceId": "trace-i56qzp7g0",
+    "spanId": "span-m6xk1l",
+    "commit": "5oko020",
+    "metadata": {
+      "userId": 562,
+      "requestId": "req-jxgqgioo",
+      "duration": 577,
+      "environment": "production",
+      "version": "v5.2.2"
+    },
+    "_ingested_at": "2025-07-02T18:11:01.141Z"
+  },
+  {
+    "level": "debug",
+    "message": "Failed to connect to external API",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-01T20:57:01.142Z",
+    "traceId": "trace-39doi01y5",
+    "spanId": "span-t7xxsi",
+    "commit": "i24n6w0",
+    "metadata": {
+      "userId": 378,
+      "requestId": "req-id8e4fa7",
+      "duration": 697,
+      "environment": "staging",
+      "version": "v3.3.6"
+    },
+    "_ingested_at": "2025-07-02T18:11:01.159Z"
+  },
+  {
+    "level": "error",
+    "message": "Failed to connect to external API",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-01T21:54:01.160Z",
+    "traceId": "trace-4mnikju7g",
+    "spanId": "span-bircl2",
+    "commit": "gxk6pr7",
+    "metadata": {
+      "userId": 676,
+      "requestId": "req-7x4t4m83",
+      "duration": 196,
+      "environment": "production",
+      "version": "v5.4.4"
+    },
+    "_ingested_at": "2025-07-02T18:11:01.177Z"
+  },
+  {
+    "level": "warn",
+    "message": "Service health check passed",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T04:56:01.178Z",
+    "traceId": "trace-vpucezxtc",
+    "spanId": "span-msahfx",
+    "commit": "w2okto0",
+    "metadata": {
+      "userId": 238,
+      "requestId": "req-pspty9xa",
+      "duration": 825,
+      "environment": "staging",
+      "version": "v1.1.7"
+    },
+    "_ingested_at": "2025-07-02T18:11:01.194Z"
+  },
+  {
+    "level": "info",
+    "message": "Service health check passed",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T02:51:01.195Z",
+    "traceId": "trace-ay7luss0s",
+    "spanId": "span-u84580",
+    "commit": "u9nlyxp",
+    "metadata": {
+      "userId": 27,
+      "requestId": "req-owdq62y8",
+      "duration": 856,
+      "environment": "production",
+      "version": "v3.7.7"
+    },
+    "_ingested_at": "2025-07-02T18:11:01.212Z"
+  },
+  {
+    "level": "debug",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T17:24:01.213Z",
+    "traceId": "trace-qth2klonl",
+    "spanId": "span-am814h",
+    "commit": "lc4zwmh",
+    "metadata": {
+      "userId": 722,
+      "requestId": "req-pu432wku",
+      "duration": 391,
+      "environment": "staging",
+      "version": "v2.4.8"
+    },
+    "_ingested_at": "2025-07-02T18:11:01.231Z"
+  },
+  {
+    "level": "error",
+    "message": "User authentication completed",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T05:08:01.233Z",
+    "traceId": "trace-kpmfx2aoz",
+    "spanId": "span-re3kgb",
+    "commit": "3eohv62",
+    "metadata": {
+      "userId": 234,
+      "requestId": "req-baela8tc",
+      "duration": 800,
+      "environment": "staging",
+      "version": "v4.8.0"
+    },
+    "_ingested_at": "2025-07-02T18:11:01.249Z"
+  },
+  {
+    "level": "warn",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-01T18:26:01.250Z",
+    "traceId": "trace-vtf6a9xwz",
+    "spanId": "span-imrjt7",
+    "commit": "1yxsdrn",
+    "metadata": {
+      "userId": 150,
+      "requestId": "req-6lq8hmwp",
+      "duration": 650,
+      "environment": "staging",
+      "version": "v2.2.9"
+    },
+    "_ingested_at": "2025-07-02T18:11:01.265Z"
+  },
+  {
+    "level": "info",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-01T19:44:01.266Z",
+    "traceId": "trace-femwbo4hf",
+    "spanId": "span-1b0jew",
+    "commit": "raa7dgd",
+    "metadata": {
+      "userId": 209,
+      "requestId": "req-34hqbggc",
+      "duration": 855,
+      "environment": "staging",
+      "version": "v5.9.7"
+    },
+    "_ingested_at": "2025-07-02T18:11:01.280Z"
+  },
+  {
+    "level": "error",
+    "message": "Network timeout occurred",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T03:02:55.767Z",
+    "traceId": "trace-5t9qwglbr",
+    "spanId": "span-jsuhxu",
+    "commit": "pw84n5l",
+    "metadata": {
+      "userId": 422,
+      "requestId": "req-tskpp7vy",
+      "duration": 600,
+      "environment": "production",
+      "version": "v2.6.3"
+    },
+    "_ingested_at": "2025-07-02T18:13:55.773Z"
+  },
+  {
+    "level": "warn",
+    "message": "Database connection established successfully",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T07:16:55.775Z",
+    "traceId": "trace-685f6gm1t",
+    "spanId": "span-uuaaeg",
+    "commit": "zstjpow",
+    "metadata": {
+      "userId": 95,
+      "requestId": "req-6hwfbj41",
+      "duration": 54,
+      "environment": "staging",
+      "version": "v5.6.5"
+    },
+    "_ingested_at": "2025-07-02T18:13:55.803Z"
+  },
+  {
+    "level": "debug",
+    "message": "Error parsing JSON payload",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T16:03:55.805Z",
+    "traceId": "trace-vuh28elpo",
+    "spanId": "span-4nzcaz",
+    "commit": "8vtadt5",
+    "metadata": {
+      "userId": 201,
+      "requestId": "req-gq4zy1vq",
+      "duration": 361,
+      "environment": "production",
+      "version": "v5.2.6"
+    },
+    "_ingested_at": "2025-07-02T18:13:55.822Z"
+  },
+  {
+    "level": "warn",
+    "message": "Service health check passed",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T00:31:55.824Z",
+    "traceId": "trace-56j6fmtor",
+    "spanId": "span-4np1xr",
+    "commit": "v806p95",
+    "metadata": {
+      "userId": 281,
+      "requestId": "req-h2zvjgzn",
+      "duration": 167,
+      "environment": "production",
+      "version": "v5.7.7"
+    },
+    "_ingested_at": "2025-07-02T18:13:55.841Z"
+  },
+  {
+    "level": "info",
+    "message": "User authentication completed",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T16:28:55.842Z",
+    "traceId": "trace-gp4n9i79v",
+    "spanId": "span-m8o5q3",
+    "commit": "qzc6ofo",
+    "metadata": {
+      "userId": 827,
+      "requestId": "req-uyu6dyb2",
+      "duration": 316,
+      "environment": "production",
+      "version": "v5.0.3"
+    },
+    "_ingested_at": "2025-07-02T18:13:55.859Z"
+  },
+  {
+    "level": "error",
+    "message": "Memory usage threshold exceeded",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-01T21:50:55.860Z",
+    "traceId": "trace-yk85wmpo4",
+    "spanId": "span-dubd37",
+    "commit": "rahs6ca",
+    "metadata": {
+      "userId": 429,
+      "requestId": "req-dpz0zq5u",
+      "duration": 851,
+      "environment": "staging",
+      "version": "v4.0.7"
+    },
+    "_ingested_at": "2025-07-02T18:13:55.876Z"
+  },
+  {
+    "level": "warn",
+    "message": "Backup process initiated",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T00:49:55.878Z",
+    "traceId": "trace-q80nf4pv4",
+    "spanId": "span-tbuw5l",
+    "commit": "gse6jrd",
+    "metadata": {
+      "userId": 177,
+      "requestId": "req-anxao52z",
+      "duration": 6,
+      "environment": "staging",
+      "version": "v4.3.5"
+    },
+    "_ingested_at": "2025-07-02T18:13:55.895Z"
+  },
+  {
+    "level": "error",
+    "message": "User authentication completed",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T13:59:55.896Z",
+    "traceId": "trace-e6ghza5ob",
+    "spanId": "span-5isu13",
+    "commit": "k71ho9m",
+    "metadata": {
+      "userId": 95,
+      "requestId": "req-ogoft24b",
+      "duration": 465,
+      "environment": "staging",
+      "version": "v3.9.3"
+    },
+    "_ingested_at": "2025-07-02T18:13:55.912Z"
+  },
+  {
+    "level": "warn",
+    "message": "Memory usage threshold exceeded",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T03:26:55.913Z",
+    "traceId": "trace-0r0fascgt",
+    "spanId": "span-zgkyy8",
+    "commit": "0ciebs5",
+    "metadata": {
+      "userId": 889,
+      "requestId": "req-gy4yf6l2",
+      "duration": 925,
+      "environment": "production",
+      "version": "v1.9.1"
+    },
+    "_ingested_at": "2025-07-02T18:13:55.929Z"
+  },
+  {
+    "level": "info",
+    "message": "Failed to connect to external API",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-01T20:34:55.930Z",
+    "traceId": "trace-bp2yfbwqo",
+    "spanId": "span-hsluhr",
+    "commit": "pwhklgz",
+    "metadata": {
+      "userId": 722,
+      "requestId": "req-16yr1y27",
+      "duration": 482,
+      "environment": "staging",
+      "version": "v4.3.6"
+    },
+    "_ingested_at": "2025-07-02T18:13:55.943Z"
+  },
+  {
+    "level": "debug",
+    "message": "Database connection established successfully",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T16:55:55.945Z",
+    "traceId": "trace-3cv3dc0pg",
+    "spanId": "span-m68nns",
+    "commit": "hrbjwsn",
+    "metadata": {
+      "userId": 825,
+      "requestId": "req-uor3fme4",
+      "duration": 998,
+      "environment": "staging",
+      "version": "v2.4.5"
+    },
+    "_ingested_at": "2025-07-02T18:13:55.962Z"
+  },
+  {
+    "level": "info",
+    "message": "Network timeout occurred",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T12:48:55.963Z",
+    "traceId": "trace-fbvvu9jsa",
+    "spanId": "span-hin2qf",
+    "commit": "j2sk4n1",
+    "metadata": {
+      "userId": 698,
+      "requestId": "req-afo94w9w",
+      "duration": 460,
+      "environment": "staging",
+      "version": "v4.3.7"
+    },
+    "_ingested_at": "2025-07-02T18:13:55.980Z"
+  },
+  {
+    "level": "info",
+    "message": "Database connection established successfully",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T13:02:55.981Z",
+    "traceId": "trace-hgs1kzwwg",
+    "spanId": "span-wcw684",
+    "commit": "13qtcns",
+    "metadata": {
+      "userId": 524,
+      "requestId": "req-u7wv1dsj",
+      "duration": 228,
+      "environment": "staging",
+      "version": "v5.2.9"
+    },
+    "_ingested_at": "2025-07-02T18:13:55.997Z"
+  },
+  {
+    "level": "info",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T11:35:55.998Z",
+    "traceId": "trace-4mudhn3va",
+    "spanId": "span-3yiw4m",
+    "commit": "0w134fa",
+    "metadata": {
+      "userId": 949,
+      "requestId": "req-fu6sddnm",
+      "duration": 681,
+      "environment": "production",
+      "version": "v2.9.0"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.014Z"
+  },
+  {
+    "level": "info",
+    "message": "Failed to connect to external API",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T03:21:56.015Z",
+    "traceId": "trace-v7teurhwi",
+    "spanId": "span-2f13am",
+    "commit": "i5oecpt",
+    "metadata": {
+      "userId": 541,
+      "requestId": "req-0jz8ruus",
+      "duration": 317,
+      "environment": "staging",
+      "version": "v1.6.6"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.031Z"
+  },
+  {
+    "level": "error",
+    "message": "Background job completed successfully",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T15:38:56.033Z",
+    "traceId": "trace-if323t3s4",
+    "spanId": "span-14nfyc",
+    "commit": "qorzhz5",
+    "metadata": {
+      "userId": 417,
+      "requestId": "req-5abfp5us",
+      "duration": 817,
+      "environment": "staging",
+      "version": "v4.5.4"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.048Z"
+  },
+  {
+    "level": "debug",
+    "message": "Failed to connect to external API",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T16:18:56.049Z",
+    "traceId": "trace-gev9sp2hd",
+    "spanId": "span-ue4xsq",
+    "commit": "z6oz1wi",
+    "metadata": {
+      "userId": 951,
+      "requestId": "req-fjx6cbq3",
+      "duration": 412,
+      "environment": "staging",
+      "version": "v2.1.9"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.066Z"
+  },
+  {
+    "level": "warn",
+    "message": "Background job completed successfully",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-01T21:03:56.067Z",
+    "traceId": "trace-orlsfu4oj",
+    "spanId": "span-94ueql",
+    "commit": "m8l3wxf",
+    "metadata": {
+      "userId": 635,
+      "requestId": "req-ndpyw5av",
+      "duration": 792,
+      "environment": "staging",
+      "version": "v1.3.7"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.083Z"
+  },
+  {
+    "level": "debug",
+    "message": "Request processing completed",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T02:12:56.085Z",
+    "traceId": "trace-7yzgu44tn",
+    "spanId": "span-n5ya2u",
+    "commit": "l49v50x",
+    "metadata": {
+      "userId": 595,
+      "requestId": "req-xtanx2k6",
+      "duration": 751,
+      "environment": "production",
+      "version": "v1.4.7"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.102Z"
+  },
+  {
+    "level": "warn",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-01T22:16:56.103Z",
+    "traceId": "trace-75eua1ge4",
+    "spanId": "span-p1l1mq",
+    "commit": "t6tdz44",
+    "metadata": {
+      "userId": 935,
+      "requestId": "req-sm278802",
+      "duration": 463,
+      "environment": "production",
+      "version": "v2.7.1"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.119Z"
+  },
+  {
+    "level": "error",
+    "message": "Memory usage threshold exceeded",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T10:28:56.120Z",
+    "traceId": "trace-cxduxuitv",
+    "spanId": "span-1zc7ln",
+    "commit": "7o76pse",
+    "metadata": {
+      "userId": 611,
+      "requestId": "req-4erw5tb1",
+      "duration": 452,
+      "environment": "staging",
+      "version": "v5.3.0"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.137Z"
+  },
+  {
+    "level": "error",
+    "message": "Database connection established successfully",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T16:45:56.138Z",
+    "traceId": "trace-asaayihq2",
+    "spanId": "span-ys0alc",
+    "commit": "lza83my",
+    "metadata": {
+      "userId": 25,
+      "requestId": "req-uankt77j",
+      "duration": 274,
+      "environment": "staging",
+      "version": "v2.9.9"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.155Z"
+  },
+  {
+    "level": "error",
+    "message": "Disk space running low",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T07:10:56.156Z",
+    "traceId": "trace-reryoaptb",
+    "spanId": "span-d1p9kd",
+    "commit": "uqj4hvi",
+    "metadata": {
+      "userId": 509,
+      "requestId": "req-zi1c4dsx",
+      "duration": 79,
+      "environment": "staging",
+      "version": "v5.2.9"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.172Z"
+  },
+  {
+    "level": "info",
+    "message": "Configuration updated successfully",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T17:19:56.173Z",
+    "traceId": "trace-mqbxngh7d",
+    "spanId": "span-68avmn",
+    "commit": "wqo0gao",
+    "metadata": {
+      "userId": 444,
+      "requestId": "req-bkk3hjxi",
+      "duration": 393,
+      "environment": "staging",
+      "version": "v5.8.2"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.189Z"
+  },
+  {
+    "level": "info",
+    "message": "Service health check passed",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T08:15:56.190Z",
+    "traceId": "trace-6q69accrw",
+    "spanId": "span-awndue",
+    "commit": "klp7nvt",
+    "metadata": {
+      "userId": 837,
+      "requestId": "req-9vtxxruc",
+      "duration": 187,
+      "environment": "staging",
+      "version": "v1.6.2"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.206Z"
+  },
+  {
+    "level": "debug",
+    "message": "Memory usage threshold exceeded",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T05:00:56.208Z",
+    "traceId": "trace-6uwfkvtrq",
+    "spanId": "span-tx515n",
+    "commit": "16esy0l",
+    "metadata": {
+      "userId": 541,
+      "requestId": "req-9crqnoin",
+      "duration": 26,
+      "environment": "production",
+      "version": "v2.9.9"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.224Z"
+  },
+  {
+    "level": "debug",
+    "message": "Network timeout occurred",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-01T18:20:56.225Z",
+    "traceId": "trace-bm1sv699d",
+    "spanId": "span-i0mqj5",
+    "commit": "4v3rksp",
+    "metadata": {
+      "userId": 193,
+      "requestId": "req-ftbcvppo",
+      "duration": 753,
+      "environment": "production",
+      "version": "v4.6.4"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.241Z"
+  },
+  {
+    "level": "error",
+    "message": "Configuration updated successfully",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-01T18:26:56.243Z",
+    "traceId": "trace-8deovdzgw",
+    "spanId": "span-4jjr0t",
+    "commit": "evp56zq",
+    "metadata": {
+      "userId": 80,
+      "requestId": "req-kwmskbid",
+      "duration": 962,
+      "environment": "staging",
+      "version": "v5.3.4"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.259Z"
+  },
+  {
+    "level": "debug",
+    "message": "Service health check passed",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-01T21:29:56.260Z",
+    "traceId": "trace-ssug86fdt",
+    "spanId": "span-kd08m4",
+    "commit": "07no76h",
+    "metadata": {
+      "userId": 264,
+      "requestId": "req-vy98jauf",
+      "duration": 340,
+      "environment": "staging",
+      "version": "v5.7.1"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.276Z"
+  },
+  {
+    "level": "debug",
+    "message": "Network timeout occurred",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T15:33:56.277Z",
+    "traceId": "trace-0ab3ioyu9",
+    "spanId": "span-fvky4u",
+    "commit": "2dnmu21",
+    "metadata": {
+      "userId": 933,
+      "requestId": "req-rhz1mss9",
+      "duration": 68,
+      "environment": "production",
+      "version": "v5.4.4"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.293Z"
+  },
+  {
+    "level": "info",
+    "message": "Database connection established successfully",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T15:20:56.294Z",
+    "traceId": "trace-huxw4ry9a",
+    "spanId": "span-tsd7xw",
+    "commit": "dhe5qog",
+    "metadata": {
+      "userId": 135,
+      "requestId": "req-ukgybxwx",
+      "duration": 389,
+      "environment": "production",
+      "version": "v3.0.8"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.311Z"
+  },
+  {
+    "level": "debug",
+    "message": "SSL certificate renewal required",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T03:14:56.313Z",
+    "traceId": "trace-846zkgapy",
+    "spanId": "span-z92pxw",
+    "commit": "gc57ji9",
+    "metadata": {
+      "userId": 113,
+      "requestId": "req-sna0kuyy",
+      "duration": 807,
+      "environment": "staging",
+      "version": "v1.6.3"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.329Z"
+  },
+  {
+    "level": "warn",
+    "message": "Error parsing JSON payload",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T07:31:56.330Z",
+    "traceId": "trace-lb11v02l5",
+    "spanId": "span-rgmcnv",
+    "commit": "ycevzmv",
+    "metadata": {
+      "userId": 285,
+      "requestId": "req-wbyhzgoc",
+      "duration": 970,
+      "environment": "production",
+      "version": "v2.5.9"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.346Z"
+  },
+  {
+    "level": "error",
+    "message": "Configuration updated successfully",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T15:35:56.348Z",
+    "traceId": "trace-hi173728n",
+    "spanId": "span-y30wq4",
+    "commit": "5pupcwo",
+    "metadata": {
+      "userId": 528,
+      "requestId": "req-q19l4din",
+      "duration": 729,
+      "environment": "production",
+      "version": "v1.4.9"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.364Z"
+  },
+  {
+    "level": "info",
+    "message": "Failed to connect to external API",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-01T18:39:56.366Z",
+    "traceId": "trace-5vdumsyxh",
+    "spanId": "span-jjpxnh",
+    "commit": "lzj3y9r",
+    "metadata": {
+      "userId": 125,
+      "requestId": "req-5zu8sx9i",
+      "duration": 417,
+      "environment": "staging",
+      "version": "v1.4.7"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.382Z"
+  },
+  {
+    "level": "debug",
+    "message": "Cache invalidation triggered",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T14:47:56.384Z",
+    "traceId": "trace-a2tmfn2kb",
+    "spanId": "span-woqp0f",
+    "commit": "6kao04m",
+    "metadata": {
+      "userId": 375,
+      "requestId": "req-4cudr1mp",
+      "duration": 135,
+      "environment": "production",
+      "version": "v1.2.2"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.400Z"
+  },
+  {
+    "level": "error",
+    "message": "Memory usage threshold exceeded",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-01T20:54:56.401Z",
+    "traceId": "trace-itfs49nrm",
+    "spanId": "span-s2w2ri",
+    "commit": "8baiuek",
+    "metadata": {
+      "userId": 132,
+      "requestId": "req-vyxr6qhn",
+      "duration": 867,
+      "environment": "staging",
+      "version": "v3.2.5"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.418Z"
+  },
+  {
+    "level": "warn",
+    "message": "Service health check passed",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T08:09:56.420Z",
+    "traceId": "trace-wu7501hqm",
+    "spanId": "span-4jxfdh",
+    "commit": "gj7he5e",
+    "metadata": {
+      "userId": 137,
+      "requestId": "req-x12wcv0d",
+      "duration": 488,
+      "environment": "production",
+      "version": "v1.8.0"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.436Z"
+  },
+  {
+    "level": "info",
+    "message": "Background job completed successfully",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T15:31:56.440Z",
+    "traceId": "trace-og7hpdghz",
+    "spanId": "span-vy6hso",
+    "commit": "kbucrp0",
+    "metadata": {
+      "userId": 992,
+      "requestId": "req-iwnlb6fx",
+      "duration": 704,
+      "environment": "production",
+      "version": "v1.4.5"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.457Z"
+  },
+  {
+    "level": "warn",
+    "message": "SSL certificate renewal required",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T13:20:56.458Z",
+    "traceId": "trace-ulcfssobo",
+    "spanId": "span-bur84n",
+    "commit": "k3zjfji",
+    "metadata": {
+      "userId": 160,
+      "requestId": "req-iklsmzzz",
+      "duration": 647,
+      "environment": "staging",
+      "version": "v4.8.0"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.475Z"
+  },
+  {
+    "level": "debug",
+    "message": "SSL certificate renewal required",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T02:57:56.476Z",
+    "traceId": "trace-0c1nrawiz",
+    "spanId": "span-wiht9j",
+    "commit": "31r7xr3",
+    "metadata": {
+      "userId": 527,
+      "requestId": "req-mhzgxf3j",
+      "duration": 440,
+      "environment": "staging",
+      "version": "v1.5.2"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.494Z"
+  },
+  {
+    "level": "warn",
+    "message": "Cache invalidation triggered",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T16:06:56.495Z",
+    "traceId": "trace-gpmi231bu",
+    "spanId": "span-p83p1j",
+    "commit": "byg8lcz",
+    "metadata": {
+      "userId": 876,
+      "requestId": "req-c5eejqta",
+      "duration": 770,
+      "environment": "staging",
+      "version": "v3.0.6"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.512Z"
+  },
+  {
+    "level": "debug",
+    "message": "User authentication completed",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-01T21:39:56.513Z",
+    "traceId": "trace-yv3mkc5t5",
+    "spanId": "span-a41mec",
+    "commit": "2gn0l01",
+    "metadata": {
+      "userId": 572,
+      "requestId": "req-w547zdce",
+      "duration": 177,
+      "environment": "production",
+      "version": "v5.4.3"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.530Z"
+  },
+  {
+    "level": "debug",
+    "message": "User authentication completed",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-01T23:40:56.531Z",
+    "traceId": "trace-yfr9gg1tv",
+    "spanId": "span-jjtpgx",
+    "commit": "xi10w8z",
+    "metadata": {
+      "userId": 917,
+      "requestId": "req-sdz97cg1",
+      "duration": 392,
+      "environment": "staging",
+      "version": "v4.0.9"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.548Z"
+  },
+  {
+    "level": "error",
+    "message": "Error parsing JSON payload",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-01T22:47:56.549Z",
+    "traceId": "trace-fidvg1y1r",
+    "spanId": "span-hnt81d",
+    "commit": "ixtzfi3",
+    "metadata": {
+      "userId": 269,
+      "requestId": "req-r86l64wc",
+      "duration": 488,
+      "environment": "production",
+      "version": "v1.3.9"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.566Z"
+  },
+  {
+    "level": "debug",
+    "message": "Network timeout occurred",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T00:45:56.567Z",
+    "traceId": "trace-wuy5igu3n",
+    "spanId": "span-lbcanb",
+    "commit": "lxo19kj",
+    "metadata": {
+      "userId": 9,
+      "requestId": "req-cfbwrhom",
+      "duration": 716,
+      "environment": "production",
+      "version": "v4.4.3"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.584Z"
+  },
+  {
+    "level": "error",
+    "message": "Service health check passed",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T09:33:56.585Z",
+    "traceId": "trace-u9rvn1v2f",
+    "spanId": "span-o194w9",
+    "commit": "vf4ands",
+    "metadata": {
+      "userId": 611,
+      "requestId": "req-6dk5yy9n",
+      "duration": 847,
+      "environment": "production",
+      "version": "v3.5.2"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.602Z"
+  },
+  {
+    "level": "error",
+    "message": "Service health check passed",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T17:52:56.603Z",
+    "traceId": "trace-uayfrdne7",
+    "spanId": "span-6a745e",
+    "commit": "0mtgqmy",
+    "metadata": {
+      "userId": 893,
+      "requestId": "req-jmjr6crr",
+      "duration": 119,
+      "environment": "production",
+      "version": "v5.0.5"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.623Z"
+  },
+  {
+    "level": "debug",
+    "message": "Disk space running low",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T13:55:56.625Z",
+    "traceId": "trace-l6zxrijl1",
+    "spanId": "span-yvyu27",
+    "commit": "njhwml6",
+    "metadata": {
+      "userId": 71,
+      "requestId": "req-c7rrh4qi",
+      "duration": 920,
+      "environment": "production",
+      "version": "v2.0.9"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.642Z"
+  },
+  {
+    "level": "debug",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-01T20:20:56.643Z",
+    "traceId": "trace-7dptuhz3b",
+    "spanId": "span-kyv0c6",
+    "commit": "jlb2rlp",
+    "metadata": {
+      "userId": 354,
+      "requestId": "req-sth8hhv7",
+      "duration": 879,
+      "environment": "production",
+      "version": "v3.8.7"
+    },
+    "_ingested_at": "2025-07-02T18:13:56.660Z"
+  },
+  {
+    "level": "info",
+    "message": "Request processing completed",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T12:25:59.931Z",
+    "traceId": "trace-l8kxgidbj",
+    "spanId": "span-plzgrd",
+    "commit": "d0wcusy",
+    "metadata": {
+      "userId": 317,
+      "requestId": "req-p4bitniz",
+      "duration": 569,
+      "environment": "staging",
+      "version": "v2.8.3"
+    },
+    "_ingested_at": "2025-07-02T18:13:59.940Z"
+  },
+  {
+    "level": "debug",
+    "message": "Network timeout occurred",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T12:12:59.941Z",
+    "traceId": "trace-6tfwmbht9",
+    "spanId": "span-ssedj1",
+    "commit": "skpqgv9",
+    "metadata": {
+      "userId": 29,
+      "requestId": "req-17zkft8p",
+      "duration": 228,
+      "environment": "staging",
+      "version": "v2.6.3"
+    },
+    "_ingested_at": "2025-07-02T18:13:59.965Z"
+  },
+  {
+    "level": "error",
+    "message": "Backup process initiated",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T04:13:59.968Z",
+    "traceId": "trace-61wlqdv7u",
+    "spanId": "span-nh2uto",
+    "commit": "r2fqowv",
+    "metadata": {
+      "userId": 128,
+      "requestId": "req-b4o6yuas",
+      "duration": 435,
+      "environment": "staging",
+      "version": "v5.7.3"
+    },
+    "_ingested_at": "2025-07-02T18:13:59.990Z"
+  },
+  {
+    "level": "error",
+    "message": "Service health check passed",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T07:50:59.992Z",
+    "traceId": "trace-z1ehcn0ei",
+    "spanId": "span-zx6rc7",
+    "commit": "ejjl11i",
+    "metadata": {
+      "userId": 415,
+      "requestId": "req-raeyb5e1",
+      "duration": 566,
+      "environment": "staging",
+      "version": "v1.3.6"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.016Z"
+  },
+  {
+    "level": "warn",
+    "message": "Database connection established successfully",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T04:17:00.018Z",
+    "traceId": "trace-kvjdky414",
+    "spanId": "span-iymahz",
+    "commit": "x53ei9p",
+    "metadata": {
+      "userId": 933,
+      "requestId": "req-b9mjra9z",
+      "duration": 930,
+      "environment": "staging",
+      "version": "v4.6.4"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.042Z"
+  },
+  {
+    "level": "error",
+    "message": "Cache invalidation triggered",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T16:16:00.043Z",
+    "traceId": "trace-mzfri0c5i",
+    "spanId": "span-zb8dmw",
+    "commit": "ip7v267",
+    "metadata": {
+      "userId": 195,
+      "requestId": "req-sdk6hdc4",
+      "duration": 454,
+      "environment": "production",
+      "version": "v2.4.5"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.061Z"
+  },
+  {
+    "level": "debug",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T04:01:00.063Z",
+    "traceId": "trace-ve3sk8c3e",
+    "spanId": "span-2ayrje",
+    "commit": "wpzk89v",
+    "metadata": {
+      "userId": 423,
+      "requestId": "req-49y3zaf2",
+      "duration": 313,
+      "environment": "staging",
+      "version": "v4.6.4"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.084Z"
+  },
+  {
+    "level": "debug",
+    "message": "Failed to connect to external API",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T09:25:00.085Z",
+    "traceId": "trace-7ue43yy1q",
+    "spanId": "span-zanvql",
+    "commit": "fy81blb",
+    "metadata": {
+      "userId": 492,
+      "requestId": "req-xygw8bv2",
+      "duration": 272,
+      "environment": "production",
+      "version": "v3.2.3"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.103Z"
+  },
+  {
+    "level": "info",
+    "message": "Network timeout occurred",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-01T20:23:00.105Z",
+    "traceId": "trace-fv4bsnhtd",
+    "spanId": "span-kt95h1",
+    "commit": "cwrgwv9",
+    "metadata": {
+      "userId": 904,
+      "requestId": "req-bvrr2abi",
+      "duration": 977,
+      "environment": "staging",
+      "version": "v1.7.8"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.123Z"
+  },
+  {
+    "level": "debug",
+    "message": "Configuration updated successfully",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T10:17:00.124Z",
+    "traceId": "trace-1qnqkofrm",
+    "spanId": "span-3g3vqs",
+    "commit": "c0gzgqu",
+    "metadata": {
+      "userId": 702,
+      "requestId": "req-tnzu9io4",
+      "duration": 912,
+      "environment": "staging",
+      "version": "v5.5.4"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.141Z"
+  },
+  {
+    "level": "error",
+    "message": "Backup process initiated",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T00:06:00.143Z",
+    "traceId": "trace-ihslq76uu",
+    "spanId": "span-gwxydx",
+    "commit": "0kvbsbv",
+    "metadata": {
+      "userId": 177,
+      "requestId": "req-dlw3387a",
+      "duration": 715,
+      "environment": "staging",
+      "version": "v1.2.3"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.160Z"
+  },
+  {
+    "level": "debug",
+    "message": "Request processing completed",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-01T19:13:00.162Z",
+    "traceId": "trace-df7kvrtq9",
+    "spanId": "span-7a6k5w",
+    "commit": "5zlti86",
+    "metadata": {
+      "userId": 591,
+      "requestId": "req-owlb8f36",
+      "duration": 257,
+      "environment": "production",
+      "version": "v4.0.2"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.180Z"
+  },
+  {
+    "level": "debug",
+    "message": "Failed to connect to external API",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T06:52:00.182Z",
+    "traceId": "trace-5frcmlgj4",
+    "spanId": "span-bqd8hn",
+    "commit": "j2t7034",
+    "metadata": {
+      "userId": 971,
+      "requestId": "req-2s10y6q5",
+      "duration": 878,
+      "environment": "production",
+      "version": "v1.6.0"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.199Z"
+  },
+  {
+    "level": "error",
+    "message": "Error parsing JSON payload",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T15:47:00.201Z",
+    "traceId": "trace-6d9jt4mqt",
+    "spanId": "span-b5shsm",
+    "commit": "pbyvs4y",
+    "metadata": {
+      "userId": 253,
+      "requestId": "req-e9i10c9e",
+      "duration": 271,
+      "environment": "staging",
+      "version": "v2.6.5"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.222Z"
+  },
+  {
+    "level": "info",
+    "message": "Error parsing JSON payload",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-01T20:22:00.224Z",
+    "traceId": "trace-eqld7ly2q",
+    "spanId": "span-45kxat",
+    "commit": "kuoox88",
+    "metadata": {
+      "userId": 197,
+      "requestId": "req-8we2ch2e",
+      "duration": 165,
+      "environment": "staging",
+      "version": "v4.3.1"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.242Z"
+  },
+  {
+    "level": "debug",
+    "message": "SSL certificate renewal required",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T11:19:00.245Z",
+    "traceId": "trace-xm5ki1gvz",
+    "spanId": "span-99bq84",
+    "commit": "ekbil93",
+    "metadata": {
+      "userId": 923,
+      "requestId": "req-dv4lb111",
+      "duration": 51,
+      "environment": "production",
+      "version": "v3.1.9"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.263Z"
+  },
+  {
+    "level": "warn",
+    "message": "Request processing completed",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-01T23:48:00.264Z",
+    "traceId": "trace-66wahajx6",
+    "spanId": "span-kmb3o8",
+    "commit": "3c9m14s",
+    "metadata": {
+      "userId": 694,
+      "requestId": "req-or1vkee6",
+      "duration": 553,
+      "environment": "production",
+      "version": "v2.8.2"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.282Z"
+  },
+  {
+    "level": "debug",
+    "message": "Memory usage threshold exceeded",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T15:23:00.283Z",
+    "traceId": "trace-bjt6c8crp",
+    "spanId": "span-hdwuwg",
+    "commit": "ut32762",
+    "metadata": {
+      "userId": 60,
+      "requestId": "req-4det5oks",
+      "duration": 267,
+      "environment": "production",
+      "version": "v1.9.8"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.304Z"
+  },
+  {
+    "level": "error",
+    "message": "Disk space running low",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T15:18:00.305Z",
+    "traceId": "trace-hmu2ss7yd",
+    "spanId": "span-3l8qpw",
+    "commit": "bddd0aj",
+    "metadata": {
+      "userId": 224,
+      "requestId": "req-vkyhew5f",
+      "duration": 858,
+      "environment": "staging",
+      "version": "v3.9.7"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.327Z"
+  },
+  {
+    "level": "warn",
+    "message": "Backup process initiated",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T10:14:00.329Z",
+    "traceId": "trace-oyjizs21k",
+    "spanId": "span-dwstyk",
+    "commit": "caaqqv3",
+    "metadata": {
+      "userId": 581,
+      "requestId": "req-d3dnq23p",
+      "duration": 927,
+      "environment": "production",
+      "version": "v5.9.8"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.347Z"
+  },
+  {
+    "level": "warn",
+    "message": "Database connection established successfully",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-01T20:57:00.348Z",
+    "traceId": "trace-d9caj5tpz",
+    "spanId": "span-kh6fl7",
+    "commit": "37bk6s8",
+    "metadata": {
+      "userId": 346,
+      "requestId": "req-l35wqjp3",
+      "duration": 256,
+      "environment": "staging",
+      "version": "v5.8.9"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.366Z"
+  },
+  {
+    "level": "info",
+    "message": "Network timeout occurred",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-01T21:42:00.367Z",
+    "traceId": "trace-axjd9t944",
+    "spanId": "span-azp6ue",
+    "commit": "vadxm8z",
+    "metadata": {
+      "userId": 253,
+      "requestId": "req-hqtohlqp",
+      "duration": 503,
+      "environment": "production",
+      "version": "v5.6.2"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.384Z"
+  },
+  {
+    "level": "info",
+    "message": "Database connection established successfully",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-01T19:43:00.385Z",
+    "traceId": "trace-me0bps9jz",
+    "spanId": "span-i58s2h",
+    "commit": "mynvcv0",
+    "metadata": {
+      "userId": 628,
+      "requestId": "req-qh4w3s59",
+      "duration": 609,
+      "environment": "production",
+      "version": "v1.6.1"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.403Z"
+  },
+  {
+    "level": "warn",
+    "message": "Failed to connect to external API",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T01:51:00.405Z",
+    "traceId": "trace-upxtxqf9w",
+    "spanId": "span-qhym3p",
+    "commit": "lzrwv8d",
+    "metadata": {
+      "userId": 341,
+      "requestId": "req-w7v6ir45",
+      "duration": 562,
+      "environment": "staging",
+      "version": "v1.3.0"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.426Z"
+  },
+  {
+    "level": "info",
+    "message": "Disk space running low",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-01T22:05:00.428Z",
+    "traceId": "trace-somkvwdy6",
+    "spanId": "span-k8pvyz",
+    "commit": "gzkwhs5",
+    "metadata": {
+      "userId": 78,
+      "requestId": "req-kk7c9yyg",
+      "duration": 568,
+      "environment": "staging",
+      "version": "v5.4.8"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.454Z"
+  },
+  {
+    "level": "debug",
+    "message": "Error parsing JSON payload",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T13:24:00.455Z",
+    "traceId": "trace-c1s0klrfv",
+    "spanId": "span-jumsgi",
+    "commit": "eqjyz9p",
+    "metadata": {
+      "userId": 908,
+      "requestId": "req-ieehzjv9",
+      "duration": 19,
+      "environment": "production",
+      "version": "v4.5.0"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.476Z"
+  },
+  {
+    "level": "info",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-01T18:22:00.478Z",
+    "traceId": "trace-x8r3xey8z",
+    "spanId": "span-3hqsb3",
+    "commit": "6bqfjoa",
+    "metadata": {
+      "userId": 590,
+      "requestId": "req-vhbzsddw",
+      "duration": 941,
+      "environment": "production",
+      "version": "v4.0.4"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.501Z"
+  },
+  {
+    "level": "debug",
+    "message": "SSL certificate renewal required",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T07:33:00.502Z",
+    "traceId": "trace-c8s8ntfev",
+    "spanId": "span-92atjp",
+    "commit": "6158c3u",
+    "metadata": {
+      "userId": 831,
+      "requestId": "req-b25sml9b",
+      "duration": 724,
+      "environment": "production",
+      "version": "v4.2.3"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.523Z"
+  },
+  {
+    "level": "info",
+    "message": "Background job completed successfully",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T16:19:00.525Z",
+    "traceId": "trace-rak9rz2gp",
+    "spanId": "span-yv61tc",
+    "commit": "ivhryxd",
+    "metadata": {
+      "userId": 810,
+      "requestId": "req-l28pmd2b",
+      "duration": 911,
+      "environment": "production",
+      "version": "v5.0.3"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.549Z"
+  },
+  {
+    "level": "error",
+    "message": "Network timeout occurred",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T02:24:00.550Z",
+    "traceId": "trace-numylp84i",
+    "spanId": "span-oyn1ai",
+    "commit": "kdkni07",
+    "metadata": {
+      "userId": 338,
+      "requestId": "req-cnf0lshe",
+      "duration": 346,
+      "environment": "production",
+      "version": "v5.8.1"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.572Z"
+  },
+  {
+    "level": "error",
+    "message": "User authentication completed",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T13:24:00.573Z",
+    "traceId": "trace-yp1hfjand",
+    "spanId": "span-jhoht9",
+    "commit": "q4j2ivn",
+    "metadata": {
+      "userId": 851,
+      "requestId": "req-i0dcz366",
+      "duration": 957,
+      "environment": "staging",
+      "version": "v5.9.6"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.594Z"
+  },
+  {
+    "level": "info",
+    "message": "Cache invalidation triggered",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T12:28:00.595Z",
+    "traceId": "trace-gnddpolm6",
+    "spanId": "span-4bzrrh",
+    "commit": "r2b85n2",
+    "metadata": {
+      "userId": 522,
+      "requestId": "req-fdf7ta42",
+      "duration": 587,
+      "environment": "staging",
+      "version": "v4.9.7"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.611Z"
+  },
+  {
+    "level": "error",
+    "message": "Configuration updated successfully",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-01T23:06:00.613Z",
+    "traceId": "trace-89guc8688",
+    "spanId": "span-td18as",
+    "commit": "53r8g3c",
+    "metadata": {
+      "userId": 347,
+      "requestId": "req-ikchnzjo",
+      "duration": 511,
+      "environment": "staging",
+      "version": "v3.8.8"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.631Z"
+  },
+  {
+    "level": "error",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T06:47:00.633Z",
+    "traceId": "trace-3fxoxj05u",
+    "spanId": "span-xplxvd",
+    "commit": "2wqdybo",
+    "metadata": {
+      "userId": 632,
+      "requestId": "req-nr9xcxxn",
+      "duration": 415,
+      "environment": "production",
+      "version": "v3.1.7"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.652Z"
+  },
+  {
+    "level": "error",
+    "message": "Disk space running low",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-01T23:18:00.654Z",
+    "traceId": "trace-xjf2bc4hq",
+    "spanId": "span-iik0xl",
+    "commit": "lwko25b",
+    "metadata": {
+      "userId": 922,
+      "requestId": "req-mtkehejz",
+      "duration": 750,
+      "environment": "staging",
+      "version": "v3.8.6"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.672Z"
+  },
+  {
+    "level": "debug",
+    "message": "SSL certificate renewal required",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-01T19:28:00.674Z",
+    "traceId": "trace-v68feqsbq",
+    "spanId": "span-ggh8e5",
+    "commit": "jdb210v",
+    "metadata": {
+      "userId": 329,
+      "requestId": "req-p1wh11j5",
+      "duration": 795,
+      "environment": "production",
+      "version": "v1.0.2"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.690Z"
+  },
+  {
+    "level": "debug",
+    "message": "Configuration updated successfully",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-01T18:33:00.691Z",
+    "traceId": "trace-h7yqx3djy",
+    "spanId": "span-yolhgs",
+    "commit": "0thsfuo",
+    "metadata": {
+      "userId": 693,
+      "requestId": "req-5v883w73",
+      "duration": 271,
+      "environment": "production",
+      "version": "v2.4.8"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.709Z"
+  },
+  {
+    "level": "error",
+    "message": "Background job completed successfully",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T11:53:00.711Z",
+    "traceId": "trace-95a11wqgs",
+    "spanId": "span-dxi0vi",
+    "commit": "p19gm1x",
+    "metadata": {
+      "userId": 194,
+      "requestId": "req-g2ic5u2t",
+      "duration": 14,
+      "environment": "production",
+      "version": "v1.6.9"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.733Z"
+  },
+  {
+    "level": "error",
+    "message": "Error parsing JSON payload",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T03:00:00.735Z",
+    "traceId": "trace-fyv2rdxt8",
+    "spanId": "span-5xepeo",
+    "commit": "nnol6ij",
+    "metadata": {
+      "userId": 556,
+      "requestId": "req-xk003sq4",
+      "duration": 224,
+      "environment": "staging",
+      "version": "v3.1.8"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.753Z"
+  },
+  {
+    "level": "debug",
+    "message": "Memory usage threshold exceeded",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-01T19:43:00.754Z",
+    "traceId": "trace-sqeo8n6f2",
+    "spanId": "span-77k682",
+    "commit": "3suyik5",
+    "metadata": {
+      "userId": 996,
+      "requestId": "req-l08ksccw",
+      "duration": 381,
+      "environment": "staging",
+      "version": "v1.8.4"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.773Z"
+  },
+  {
+    "level": "warn",
+    "message": "SSL certificate renewal required",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T05:01:00.774Z",
+    "traceId": "trace-3emvqp5j5",
+    "spanId": "span-itsz83",
+    "commit": "ywbj4k4",
+    "metadata": {
+      "userId": 155,
+      "requestId": "req-v72meyvu",
+      "duration": 396,
+      "environment": "production",
+      "version": "v4.3.3"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.794Z"
+  },
+  {
+    "level": "warn",
+    "message": "Background job completed successfully",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T04:56:00.795Z",
+    "traceId": "trace-3ltayzlto",
+    "spanId": "span-njjzu2",
+    "commit": "gclxlzu",
+    "metadata": {
+      "userId": 94,
+      "requestId": "req-07kpxp72",
+      "duration": 619,
+      "environment": "staging",
+      "version": "v1.8.6"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.815Z"
+  },
+  {
+    "level": "error",
+    "message": "SSL certificate renewal required",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T00:27:00.816Z",
+    "traceId": "trace-jfiecjkzi",
+    "spanId": "span-zamekk",
+    "commit": "qpndo7h",
+    "metadata": {
+      "userId": 584,
+      "requestId": "req-ey6z7q6k",
+      "duration": 819,
+      "environment": "production",
+      "version": "v4.5.9"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.834Z"
+  },
+  {
+    "level": "info",
+    "message": "Database connection established successfully",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T06:07:00.835Z",
+    "traceId": "trace-cq1qmz0j0",
+    "spanId": "span-d52afq",
+    "commit": "jg38nji",
+    "metadata": {
+      "userId": 587,
+      "requestId": "req-cs23zegy",
+      "duration": 968,
+      "environment": "production",
+      "version": "v1.7.9"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.854Z"
+  },
+  {
+    "level": "info",
+    "message": "Service health check passed",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-01T21:38:00.856Z",
+    "traceId": "trace-4njurzltq",
+    "spanId": "span-0pkppv",
+    "commit": "ga8paqu",
+    "metadata": {
+      "userId": 287,
+      "requestId": "req-m8r25gld",
+      "duration": 478,
+      "environment": "staging",
+      "version": "v5.1.7"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.878Z"
+  },
+  {
+    "level": "warn",
+    "message": "Backup process initiated",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-01T18:39:00.879Z",
+    "traceId": "trace-uvnf60ctu",
+    "spanId": "span-rkaqam",
+    "commit": "lyimp44",
+    "metadata": {
+      "userId": 391,
+      "requestId": "req-np68blgj",
+      "duration": 38,
+      "environment": "staging",
+      "version": "v2.7.0"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.898Z"
+  },
+  {
+    "level": "debug",
+    "message": "Network timeout occurred",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T08:14:00.899Z",
+    "traceId": "trace-o4uhyangz",
+    "spanId": "span-2ft6m9",
+    "commit": "jjzny4q",
+    "metadata": {
+      "userId": 913,
+      "requestId": "req-3n1731so",
+      "duration": 857,
+      "environment": "production",
+      "version": "v3.1.9"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.922Z"
+  },
+  {
+    "level": "warn",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T01:30:00.924Z",
+    "traceId": "trace-txh348h3e",
+    "spanId": "span-899ymg",
+    "commit": "j1kd2l1",
+    "metadata": {
+      "userId": 859,
+      "requestId": "req-ewvre9zv",
+      "duration": 41,
+      "environment": "staging",
+      "version": "v2.0.8"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.945Z"
+  },
+  {
+    "level": "info",
+    "message": "Network timeout occurred",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T04:05:00.946Z",
+    "traceId": "trace-3o0ejgvps",
+    "spanId": "span-7qjsvt",
+    "commit": "ll6g30y",
+    "metadata": {
+      "userId": 982,
+      "requestId": "req-6b0r2fuq",
+      "duration": 50,
+      "environment": "production",
+      "version": "v3.3.0"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.968Z"
+  },
+  {
+    "level": "warn",
+    "message": "Network timeout occurred",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T13:51:00.970Z",
+    "traceId": "trace-dt7sqxoyx",
+    "spanId": "span-j80nnx",
+    "commit": "wv6ilvi",
+    "metadata": {
+      "userId": 123,
+      "requestId": "req-v7t3w5ux",
+      "duration": 26,
+      "environment": "production",
+      "version": "v5.4.0"
+    },
+    "_ingested_at": "2025-07-02T18:14:00.989Z"
+  },
+  {
+    "level": "error",
+    "message": "Service Creashed",
+    "resourceId": "420",
+    "timestamp": "2025-07-02T12:38:17.981Z",
+    "traceId": "trace-mmi6leteg",
+    "spanId": "span-6uh0voa",
+    "commit": "xsitehrn",
+    "metadata": {
+      "userId": 602,
+      "requestId": "req-bfalggfr",
+      "duration": 123,
+      "environment": "production",
+      "version": "v3.9.8"
+    },
+    "_ingested_at": "2025-07-02T19:08:03.323Z"
+  },
+  {
+    "level": "warn",
+    "message": "Cache invalidation triggered",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T02:48:09.541Z",
+    "traceId": "trace-6e18ajukq",
+    "spanId": "span-q4cphj",
+    "commit": "yzjlbl4",
+    "metadata": {
+      "userId": 139,
+      "requestId": "req-iyoc9jrt",
+      "duration": 78,
+      "environment": "staging",
+      "version": "v1.0.8"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.546Z"
+  },
+  {
+    "level": "error",
+    "message": "Failed to connect to external API",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T03:56:09.548Z",
+    "traceId": "trace-3995iagwb",
+    "spanId": "span-tsndnj",
+    "commit": "o713fql",
+    "metadata": {
+      "userId": 934,
+      "requestId": "req-orvjqdms",
+      "duration": 325,
+      "environment": "production",
+      "version": "v3.4.8"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.569Z"
+  },
+  {
+    "level": "warn",
+    "message": "Configuration updated successfully",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T05:34:09.570Z",
+    "traceId": "trace-ao2y53vsu",
+    "spanId": "span-rrm5hq",
+    "commit": "mdn8mfp",
+    "metadata": {
+      "userId": 470,
+      "requestId": "req-ewc8q1dw",
+      "duration": 65,
+      "environment": "staging",
+      "version": "v1.4.9"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.588Z"
+  },
+  {
+    "level": "warn",
+    "message": "Memory usage threshold exceeded",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T15:40:09.590Z",
+    "traceId": "trace-mpoezx46j",
+    "spanId": "span-t7flma",
+    "commit": "z8r2vln",
+    "metadata": {
+      "userId": 211,
+      "requestId": "req-s90429l6",
+      "duration": 214,
+      "environment": "staging",
+      "version": "v2.7.0"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.606Z"
+  },
+  {
+    "level": "error",
+    "message": "Background job completed successfully",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T17:16:09.608Z",
+    "traceId": "trace-cul5z9i78",
+    "spanId": "span-nafxrz",
+    "commit": "fhwlt2p",
+    "metadata": {
+      "userId": 363,
+      "requestId": "req-fuhiy45n",
+      "duration": 244,
+      "environment": "staging",
+      "version": "v3.2.2"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.624Z"
+  },
+  {
+    "level": "debug",
+    "message": "Request processing completed",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-01T21:06:09.625Z",
+    "traceId": "trace-ph54gb6mn",
+    "spanId": "span-jyv84e",
+    "commit": "xncdewr",
+    "metadata": {
+      "userId": 576,
+      "requestId": "req-es2xqc7p",
+      "duration": 664,
+      "environment": "production",
+      "version": "v4.6.5"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.642Z"
+  },
+  {
+    "level": "info",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T09:39:09.644Z",
+    "traceId": "trace-gf6lb8qe4",
+    "spanId": "span-zl9r78",
+    "commit": "q2t9508",
+    "metadata": {
+      "userId": 579,
+      "requestId": "req-lnftfty7",
+      "duration": 484,
+      "environment": "production",
+      "version": "v3.7.2"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.660Z"
+  },
+  {
+    "level": "debug",
+    "message": "Error parsing JSON payload",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T09:25:09.662Z",
+    "traceId": "trace-6kzpl5x4w",
+    "spanId": "span-9mn2fc",
+    "commit": "o9s5ctn",
+    "metadata": {
+      "userId": 188,
+      "requestId": "req-2kgraqig",
+      "duration": 460,
+      "environment": "staging",
+      "version": "v2.8.0"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.679Z"
+  },
+  {
+    "level": "error",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T11:22:09.680Z",
+    "traceId": "trace-dqswa9o4v",
+    "spanId": "span-xvwad3",
+    "commit": "eqrp4r5",
+    "metadata": {
+      "userId": 439,
+      "requestId": "req-lvacseu6",
+      "duration": 562,
+      "environment": "production",
+      "version": "v1.4.7"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.697Z"
+  },
+  {
+    "level": "warn",
+    "message": "User authentication completed",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T01:16:09.699Z",
+    "traceId": "trace-pyfg2wfco",
+    "spanId": "span-ide36e",
+    "commit": "sc707zd",
+    "metadata": {
+      "userId": 236,
+      "requestId": "req-2j0eycpn",
+      "duration": 34,
+      "environment": "staging",
+      "version": "v1.2.9"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.715Z"
+  },
+  {
+    "level": "error",
+    "message": "SSL certificate renewal required",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-01T22:05:09.717Z",
+    "traceId": "trace-s7vjmcz4n",
+    "spanId": "span-77uk7n",
+    "commit": "43i1c2k",
+    "metadata": {
+      "userId": 832,
+      "requestId": "req-lvwf4ip2",
+      "duration": 41,
+      "environment": "staging",
+      "version": "v4.1.5"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.733Z"
+  },
+  {
+    "level": "info",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T01:16:09.735Z",
+    "traceId": "trace-1trhiahy4",
+    "spanId": "span-wu8fdn",
+    "commit": "bzjlxjt",
+    "metadata": {
+      "userId": 790,
+      "requestId": "req-cy9izbad",
+      "duration": 279,
+      "environment": "production",
+      "version": "v2.9.2"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.751Z"
+  },
+  {
+    "level": "warn",
+    "message": "Disk space running low",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T08:24:09.753Z",
+    "traceId": "trace-ua17klfog",
+    "spanId": "span-txdae3",
+    "commit": "1j7l0b9",
+    "metadata": {
+      "userId": 551,
+      "requestId": "req-1hd5824i",
+      "duration": 903,
+      "environment": "staging",
+      "version": "v4.6.8"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.770Z"
+  },
+  {
+    "level": "warn",
+    "message": "Backup process initiated",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T07:48:09.772Z",
+    "traceId": "trace-0zfjfxt2a",
+    "spanId": "span-mbde7m",
+    "commit": "0fk3m32",
+    "metadata": {
+      "userId": 277,
+      "requestId": "req-6wtg1uez",
+      "duration": 524,
+      "environment": "staging",
+      "version": "v3.7.8"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.788Z"
+  },
+  {
+    "level": "warn",
+    "message": "SSL certificate renewal required",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T09:17:09.789Z",
+    "traceId": "trace-sjw95qrv1",
+    "spanId": "span-bgisrw",
+    "commit": "93utepn",
+    "metadata": {
+      "userId": 534,
+      "requestId": "req-aod72i08",
+      "duration": 916,
+      "environment": "staging",
+      "version": "v2.1.9"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.806Z"
+  },
+  {
+    "level": "warn",
+    "message": "Backup process initiated",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T14:16:09.808Z",
+    "traceId": "trace-zpq9zhyr5",
+    "spanId": "span-9lh4zp",
+    "commit": "9jqtix7",
+    "metadata": {
+      "userId": 290,
+      "requestId": "req-cjcjvo0o",
+      "duration": 751,
+      "environment": "production",
+      "version": "v1.6.5"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.824Z"
+  },
+  {
+    "level": "info",
+    "message": "Cache invalidation triggered",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T08:53:09.826Z",
+    "traceId": "trace-8nkyrpd1x",
+    "spanId": "span-90c7hk",
+    "commit": "qqrc74n",
+    "metadata": {
+      "userId": 583,
+      "requestId": "req-cn57fx10",
+      "duration": 62,
+      "environment": "staging",
+      "version": "v3.7.2"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.842Z"
+  },
+  {
+    "level": "warn",
+    "message": "Backup process initiated",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T15:28:09.843Z",
+    "traceId": "trace-ewuoay9co",
+    "spanId": "span-k6dhfn",
+    "commit": "9krydus",
+    "metadata": {
+      "userId": 331,
+      "requestId": "req-419ui3ni",
+      "duration": 934,
+      "environment": "production",
+      "version": "v2.7.6"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.860Z"
+  },
+  {
+    "level": "error",
+    "message": "User authentication completed",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T11:24:09.862Z",
+    "traceId": "trace-jhtcbcfgw",
+    "spanId": "span-k6sahh",
+    "commit": "oeda2s5",
+    "metadata": {
+      "userId": 434,
+      "requestId": "req-j0dsef5b",
+      "duration": 849,
+      "environment": "staging",
+      "version": "v4.9.1"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.879Z"
+  },
+  {
+    "level": "warn",
+    "message": "Disk space running low",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T17:20:09.880Z",
+    "traceId": "trace-5ef5i9btr",
+    "spanId": "span-4zmjp2",
+    "commit": "u5uifbl",
+    "metadata": {
+      "userId": 360,
+      "requestId": "req-qc1qcrxl",
+      "duration": 174,
+      "environment": "staging",
+      "version": "v4.6.1"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.897Z"
+  },
+  {
+    "level": "info",
+    "message": "Configuration updated successfully",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-01T22:35:09.898Z",
+    "traceId": "trace-znykhyl5o",
+    "spanId": "span-9lsqn4",
+    "commit": "xtos3ca",
+    "metadata": {
+      "userId": 357,
+      "requestId": "req-clawab7c",
+      "duration": 211,
+      "environment": "staging",
+      "version": "v4.3.8"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.916Z"
+  },
+  {
+    "level": "warn",
+    "message": "Configuration updated successfully",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T03:24:09.918Z",
+    "traceId": "trace-lvbg4dm0o",
+    "spanId": "span-irseto",
+    "commit": "wz9u92m",
+    "metadata": {
+      "userId": 321,
+      "requestId": "req-nksuj2mp",
+      "duration": 942,
+      "environment": "staging",
+      "version": "v4.1.1"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.933Z"
+  },
+  {
+    "level": "info",
+    "message": "Memory usage threshold exceeded",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T15:55:09.935Z",
+    "traceId": "trace-7guhdts70",
+    "spanId": "span-0xhr79",
+    "commit": "rnm22ip",
+    "metadata": {
+      "userId": 519,
+      "requestId": "req-h5jnmliu",
+      "duration": 50,
+      "environment": "production",
+      "version": "v3.3.2"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.948Z"
+  },
+  {
+    "level": "warn",
+    "message": "Database connection established successfully",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-01T22:27:09.949Z",
+    "traceId": "trace-hm76d6lq2",
+    "spanId": "span-glqmxx",
+    "commit": "0il76rg",
+    "metadata": {
+      "userId": 218,
+      "requestId": "req-iqmqhrrs",
+      "duration": 790,
+      "environment": "staging",
+      "version": "v2.1.2"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.965Z"
+  },
+  {
+    "level": "warn",
+    "message": "Network timeout occurred",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T18:45:09.967Z",
+    "traceId": "trace-gh1zk75ko",
+    "spanId": "span-hq4upt",
+    "commit": "mzo113v",
+    "metadata": {
+      "userId": 684,
+      "requestId": "req-obxdscf6",
+      "duration": 859,
+      "environment": "production",
+      "version": "v4.9.0"
+    },
+    "_ingested_at": "2025-07-02T19:17:09.983Z"
+  },
+  {
+    "level": "warn",
+    "message": "Background job completed successfully",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T06:32:09.985Z",
+    "traceId": "trace-ga3untacc",
+    "spanId": "span-ojmm1e",
+    "commit": "y05yb66",
+    "metadata": {
+      "userId": 134,
+      "requestId": "req-30lg1sko",
+      "duration": 918,
+      "environment": "staging",
+      "version": "v2.5.7"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.001Z"
+  },
+  {
+    "level": "debug",
+    "message": "Request processing completed",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T10:54:10.003Z",
+    "traceId": "trace-l7a0ztm5y",
+    "spanId": "span-n3ss0i",
+    "commit": "n0p4pxg",
+    "metadata": {
+      "userId": 507,
+      "requestId": "req-xevzw8gz",
+      "duration": 159,
+      "environment": "staging",
+      "version": "v3.6.3"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.020Z"
+  },
+  {
+    "level": "error",
+    "message": "User authentication completed",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T02:27:10.023Z",
+    "traceId": "trace-b05nbxhbe",
+    "spanId": "span-q3zkie",
+    "commit": "w4xq3fr",
+    "metadata": {
+      "userId": 912,
+      "requestId": "req-mdjr2nv8",
+      "duration": 999,
+      "environment": "production",
+      "version": "v1.3.5"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.038Z"
+  },
+  {
+    "level": "error",
+    "message": "Error parsing JSON payload",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-01T20:34:10.041Z",
+    "traceId": "trace-b6mlbuvt7",
+    "spanId": "span-spjd9d",
+    "commit": "hu2jzmm",
+    "metadata": {
+      "userId": 151,
+      "requestId": "req-xk6g8vsm",
+      "duration": 803,
+      "environment": "production",
+      "version": "v4.2.5"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.057Z"
+  },
+  {
+    "level": "warn",
+    "message": "Backup process initiated",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T03:07:10.063Z",
+    "traceId": "trace-beh6580ra",
+    "spanId": "span-mbo1c3",
+    "commit": "z8qv8e9",
+    "metadata": {
+      "userId": 670,
+      "requestId": "req-cfiiity0",
+      "duration": 233,
+      "environment": "staging",
+      "version": "v4.1.7"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.080Z"
+  },
+  {
+    "level": "info",
+    "message": "Disk space running low",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T00:55:10.082Z",
+    "traceId": "trace-shmj0jwqj",
+    "spanId": "span-shamsq",
+    "commit": "v940r5k",
+    "metadata": {
+      "userId": 620,
+      "requestId": "req-5wijlqbd",
+      "duration": 436,
+      "environment": "staging",
+      "version": "v5.6.0"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.098Z"
+  },
+  {
+    "level": "debug",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T05:45:10.099Z",
+    "traceId": "trace-6mvc4bdbf",
+    "spanId": "span-h4p4vh",
+    "commit": "4op0xxh",
+    "metadata": {
+      "userId": 310,
+      "requestId": "req-nrgo6808",
+      "duration": 302,
+      "environment": "production",
+      "version": "v3.8.1"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.116Z"
+  },
+  {
+    "level": "debug",
+    "message": "Request processing completed",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T13:28:10.118Z",
+    "traceId": "trace-14wp3atot",
+    "spanId": "span-veynur",
+    "commit": "4hgeiih",
+    "metadata": {
+      "userId": 38,
+      "requestId": "req-fh8m7rrl",
+      "duration": 663,
+      "environment": "production",
+      "version": "v3.7.4"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.135Z"
+  },
+  {
+    "level": "warn",
+    "message": "Database connection established successfully",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T16:48:10.137Z",
+    "traceId": "trace-u8798knvk",
+    "spanId": "span-3exjod",
+    "commit": "pv4kuzb",
+    "metadata": {
+      "userId": 39,
+      "requestId": "req-p70aqhh8",
+      "duration": 692,
+      "environment": "production",
+      "version": "v4.7.3"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.155Z"
+  },
+  {
+    "level": "error",
+    "message": "Request processing completed",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T03:59:10.156Z",
+    "traceId": "trace-xo34bjh7o",
+    "spanId": "span-060nyk",
+    "commit": "6neyjrt",
+    "metadata": {
+      "userId": 47,
+      "requestId": "req-57h247vk",
+      "duration": 775,
+      "environment": "staging",
+      "version": "v1.0.3"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.173Z"
+  },
+  {
+    "level": "error",
+    "message": "Service health check passed",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T09:55:10.174Z",
+    "traceId": "trace-r59hcwoaf",
+    "spanId": "span-c7zsps",
+    "commit": "5poz4of",
+    "metadata": {
+      "userId": 761,
+      "requestId": "req-sslma7pl",
+      "duration": 700,
+      "environment": "production",
+      "version": "v4.6.8"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.188Z"
+  },
+  {
+    "level": "debug",
+    "message": "Error parsing JSON payload",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T04:00:10.190Z",
+    "traceId": "trace-skvbhvhuv",
+    "spanId": "span-r24w4t",
+    "commit": "srm39fp",
+    "metadata": {
+      "userId": 514,
+      "requestId": "req-w1990dkc",
+      "duration": 792,
+      "environment": "staging",
+      "version": "v5.4.1"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.207Z"
+  },
+  {
+    "level": "debug",
+    "message": "Memory usage threshold exceeded",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T07:41:10.209Z",
+    "traceId": "trace-84gxyke17",
+    "spanId": "span-40bky8",
+    "commit": "5breryp",
+    "metadata": {
+      "userId": 14,
+      "requestId": "req-amb39f47",
+      "duration": 853,
+      "environment": "staging",
+      "version": "v5.1.0"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.226Z"
+  },
+  {
+    "level": "error",
+    "message": "Background job completed successfully",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T13:17:10.228Z",
+    "traceId": "trace-3dpbswi9a",
+    "spanId": "span-kb4sfi",
+    "commit": "zpiu9v0",
+    "metadata": {
+      "userId": 77,
+      "requestId": "req-23o7gqb4",
+      "duration": 533,
+      "environment": "staging",
+      "version": "v2.8.1"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.245Z"
+  },
+  {
+    "level": "debug",
+    "message": "Service health check passed",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T01:23:10.247Z",
+    "traceId": "trace-p0mbnnowh",
+    "spanId": "span-zrre8v",
+    "commit": "x9ap17a",
+    "metadata": {
+      "userId": 273,
+      "requestId": "req-tz4r5co7",
+      "duration": 747,
+      "environment": "staging",
+      "version": "v5.9.9"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.263Z"
+  },
+  {
+    "level": "error",
+    "message": "Service health check passed",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-01T21:01:10.265Z",
+    "traceId": "trace-m52z2s498",
+    "spanId": "span-36jrep",
+    "commit": "whlcyml",
+    "metadata": {
+      "userId": 201,
+      "requestId": "req-ymrvy2ak",
+      "duration": 3,
+      "environment": "production",
+      "version": "v3.0.4"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.280Z"
+  },
+  {
+    "level": "warn",
+    "message": "Backup process initiated",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T10:07:10.282Z",
+    "traceId": "trace-vrcbfvtec",
+    "spanId": "span-z1nibr",
+    "commit": "2m63sgp",
+    "metadata": {
+      "userId": 881,
+      "requestId": "req-1tpoqob7",
+      "duration": 844,
+      "environment": "staging",
+      "version": "v2.6.5"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.298Z"
+  },
+  {
+    "level": "error",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T06:24:10.300Z",
+    "traceId": "trace-krqzw4u40",
+    "spanId": "span-c8ks6k",
+    "commit": "9qwg23w",
+    "metadata": {
+      "userId": 36,
+      "requestId": "req-8w8tvn4r",
+      "duration": 621,
+      "environment": "staging",
+      "version": "v5.4.9"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.317Z"
+  },
+  {
+    "level": "error",
+    "message": "Service health check passed",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T00:53:10.319Z",
+    "traceId": "trace-qip4ghckv",
+    "spanId": "span-dg8ont",
+    "commit": "dncdw63",
+    "metadata": {
+      "userId": 96,
+      "requestId": "req-pmw2p2a2",
+      "duration": 974,
+      "environment": "production",
+      "version": "v4.4.5"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.336Z"
+  },
+  {
+    "level": "error",
+    "message": "Failed to connect to external API",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T00:21:10.338Z",
+    "traceId": "trace-ba940plcs",
+    "spanId": "span-h9hjda",
+    "commit": "fhvd0ab",
+    "metadata": {
+      "userId": 366,
+      "requestId": "req-d9zlrzlx",
+      "duration": 713,
+      "environment": "production",
+      "version": "v4.5.1"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.354Z"
+  },
+  {
+    "level": "error",
+    "message": "User authentication completed",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T14:45:10.358Z",
+    "traceId": "trace-zf728a1o5",
+    "spanId": "span-32klr1",
+    "commit": "2h0knt6",
+    "metadata": {
+      "userId": 607,
+      "requestId": "req-b8v9kv5h",
+      "duration": 773,
+      "environment": "staging",
+      "version": "v4.7.0"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.374Z"
+  },
+  {
+    "level": "info",
+    "message": "Memory usage threshold exceeded",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-01T21:50:10.376Z",
+    "traceId": "trace-3ukj4c515",
+    "spanId": "span-vgjt3j",
+    "commit": "v9s05ks",
+    "metadata": {
+      "userId": 901,
+      "requestId": "req-vp5bj7dx",
+      "duration": 505,
+      "environment": "staging",
+      "version": "v3.2.3"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.393Z"
+  },
+  {
+    "level": "info",
+    "message": "Failed to connect to external API",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T08:28:10.395Z",
+    "traceId": "trace-fahyewrzm",
+    "spanId": "span-0b2sao",
+    "commit": "wv0lwv6",
+    "metadata": {
+      "userId": 186,
+      "requestId": "req-2iizyy8p",
+      "duration": 389,
+      "environment": "staging",
+      "version": "v3.9.7"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.417Z"
+  },
+  {
+    "level": "debug",
+    "message": "User authentication completed",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T19:12:10.419Z",
+    "traceId": "trace-54vc3vxpj",
+    "spanId": "span-bdr30y",
+    "commit": "b581ki4",
+    "metadata": {
+      "userId": 507,
+      "requestId": "req-rrs72h6y",
+      "duration": 947,
+      "environment": "staging",
+      "version": "v3.9.9"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.442Z"
+  },
+  {
+    "level": "error",
+    "message": "Network timeout occurred",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T09:58:10.445Z",
+    "traceId": "trace-hnd9za5ex",
+    "spanId": "span-ryilyh",
+    "commit": "8a00li5",
+    "metadata": {
+      "userId": 319,
+      "requestId": "req-e003iciq",
+      "duration": 221,
+      "environment": "production",
+      "version": "v3.7.5"
+    },
+    "_ingested_at": "2025-07-02T19:17:10.463Z"
+  },
+  {
+    "level": "debug",
+    "message": "Network timeout occurred",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T18:33:41.752Z",
+    "traceId": "trace-ufp58hgdo",
+    "spanId": "span-7uc27d",
+    "commit": "tizci9v",
+    "metadata": {
+      "userId": 179,
+      "requestId": "req-9kgnfjvq",
+      "duration": 914,
+      "environment": "staging",
+      "version": "v4.4.5"
+    },
+    "_ingested_at": "2025-07-02T19:24:41.761Z"
+  },
+  {
+    "level": "debug",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-01T20:44:41.764Z",
+    "traceId": "trace-pdvcgt7ly",
+    "spanId": "span-wfkbbe",
+    "commit": "w20k12u",
+    "metadata": {
+      "userId": 927,
+      "requestId": "req-kov5vvhx",
+      "duration": 825,
+      "environment": "production",
+      "version": "v3.0.7"
+    },
+    "_ingested_at": "2025-07-02T19:24:41.799Z"
+  },
+  {
+    "level": "debug",
+    "message": "Error parsing JSON payload",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T10:27:41.802Z",
+    "traceId": "trace-1rdca6ix1",
+    "spanId": "span-vek601",
+    "commit": "38pm9da",
+    "metadata": {
+      "userId": 168,
+      "requestId": "req-f09lupm8",
+      "duration": 500,
+      "environment": "staging",
+      "version": "v1.5.0"
+    },
+    "_ingested_at": "2025-07-02T19:24:41.828Z"
+  },
+  {
+    "level": "info",
+    "message": "Memory usage threshold exceeded",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T17:13:41.831Z",
+    "traceId": "trace-iiwzntlb4",
+    "spanId": "span-lke8pl",
+    "commit": "0b35wxa",
+    "metadata": {
+      "userId": 604,
+      "requestId": "req-asnyybav",
+      "duration": 346,
+      "environment": "staging",
+      "version": "v5.2.8"
+    },
+    "_ingested_at": "2025-07-02T19:24:41.855Z"
+  },
+  {
+    "level": "error",
+    "message": "Database connection established successfully",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T15:52:41.857Z",
+    "traceId": "trace-o9b84unov",
+    "spanId": "span-p8th8n",
+    "commit": "btju9yf",
+    "metadata": {
+      "userId": 692,
+      "requestId": "req-hha95e9f",
+      "duration": 783,
+      "environment": "production",
+      "version": "v3.3.5"
+    },
+    "_ingested_at": "2025-07-02T19:24:41.878Z"
+  },
+  {
+    "level": "error",
+    "message": "Disk space running low",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T09:39:41.881Z",
+    "traceId": "trace-o6qr43wsp",
+    "spanId": "span-wt25te",
+    "commit": "9vjgmgl",
+    "metadata": {
+      "userId": 979,
+      "requestId": "req-81m2e38q",
+      "duration": 226,
+      "environment": "staging",
+      "version": "v4.5.5"
+    },
+    "_ingested_at": "2025-07-02T19:24:41.902Z"
+  },
+  {
+    "level": "debug",
+    "message": "Disk space running low",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T05:54:41.905Z",
+    "traceId": "trace-3euthe9uw",
+    "spanId": "span-t9kip9",
+    "commit": "1s51f1g",
+    "metadata": {
+      "userId": 453,
+      "requestId": "req-lg5n7sie",
+      "duration": 526,
+      "environment": "staging",
+      "version": "v1.1.9"
+    },
+    "_ingested_at": "2025-07-02T19:24:41.926Z"
+  },
+  {
+    "level": "warn",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-01T19:55:41.929Z",
+    "traceId": "trace-bwtm5tbnr",
+    "spanId": "span-kcr1zv",
+    "commit": "lceaay9",
+    "metadata": {
+      "userId": 818,
+      "requestId": "req-kw2erhwf",
+      "duration": 610,
+      "environment": "staging",
+      "version": "v2.7.4"
+    },
+    "_ingested_at": "2025-07-02T19:24:41.949Z"
+  },
+  {
+    "level": "warn",
+    "message": "Disk space running low",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T18:14:41.952Z",
+    "traceId": "trace-43c09y4tx",
+    "spanId": "span-y9uebh",
+    "commit": "e32723e",
+    "metadata": {
+      "userId": 598,
+      "requestId": "req-g4do2pb6",
+      "duration": 677,
+      "environment": "staging",
+      "version": "v4.6.9"
+    },
+    "_ingested_at": "2025-07-02T19:24:41.974Z"
+  },
+  {
+    "level": "debug",
+    "message": "Cache invalidation triggered",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-01T20:30:41.977Z",
+    "traceId": "trace-s31kcmojq",
+    "spanId": "span-dqqrf6",
+    "commit": "970j4fc",
+    "metadata": {
+      "userId": 633,
+      "requestId": "req-jbmldwal",
+      "duration": 556,
+      "environment": "production",
+      "version": "v4.7.5"
+    },
+    "_ingested_at": "2025-07-02T19:24:41.999Z"
+  },
+  {
+    "level": "info",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-01T21:22:42.002Z",
+    "traceId": "trace-4hzdqsjld",
+    "spanId": "span-77d531",
+    "commit": "4yg6dz6",
+    "metadata": {
+      "userId": 477,
+      "requestId": "req-gg3nfy2i",
+      "duration": 583,
+      "environment": "production",
+      "version": "v1.4.7"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.022Z"
+  },
+  {
+    "level": "warn",
+    "message": "Failed to connect to external API",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T03:07:42.025Z",
+    "traceId": "trace-c7st5c7qx",
+    "spanId": "span-g34bg8",
+    "commit": "iw74ifk",
+    "metadata": {
+      "userId": 778,
+      "requestId": "req-j9ofdjsk",
+      "duration": 920,
+      "environment": "staging",
+      "version": "v2.6.1"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.046Z"
+  },
+  {
+    "level": "debug",
+    "message": "Cache invalidation triggered",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-01T22:29:42.049Z",
+    "traceId": "trace-wcjdc2kss",
+    "spanId": "span-d7btdm",
+    "commit": "js69uug",
+    "metadata": {
+      "userId": 164,
+      "requestId": "req-8s46xitu",
+      "duration": 32,
+      "environment": "production",
+      "version": "v4.4.8"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.072Z"
+  },
+  {
+    "level": "warn",
+    "message": "Configuration updated successfully",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T10:28:42.074Z",
+    "traceId": "trace-cwapjrh08",
+    "spanId": "span-xcfv94",
+    "commit": "srwdsyk",
+    "metadata": {
+      "userId": 555,
+      "requestId": "req-ibsz9pxx",
+      "duration": 377,
+      "environment": "staging",
+      "version": "v3.7.6"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.100Z"
+  },
+  {
+    "level": "warn",
+    "message": "Cache invalidation triggered",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T12:27:42.103Z",
+    "traceId": "trace-tvyoarygo",
+    "spanId": "span-fbi7gs",
+    "commit": "akfmwo4",
+    "metadata": {
+      "userId": 237,
+      "requestId": "req-zi6xzmaq",
+      "duration": 583,
+      "environment": "production",
+      "version": "v4.3.5"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.126Z"
+  },
+  {
+    "level": "error",
+    "message": "Error parsing JSON payload",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T11:21:42.128Z",
+    "traceId": "trace-63ywbxrwy",
+    "spanId": "span-je23du",
+    "commit": "o9mocyv",
+    "metadata": {
+      "userId": 396,
+      "requestId": "req-h0s7g75a",
+      "duration": 456,
+      "environment": "staging",
+      "version": "v4.2.7"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.154Z"
+  },
+  {
+    "level": "debug",
+    "message": "Background job completed successfully",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T10:22:42.157Z",
+    "traceId": "trace-95n0fx8ly",
+    "spanId": "span-4y7wam",
+    "commit": "vvsdh7c",
+    "metadata": {
+      "userId": 319,
+      "requestId": "req-6wvm2olq",
+      "duration": 191,
+      "environment": "production",
+      "version": "v1.4.2"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.180Z"
+  },
+  {
+    "level": "error",
+    "message": "Service health check passed",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T02:36:42.183Z",
+    "traceId": "trace-pee32rum5",
+    "spanId": "span-3ellgu",
+    "commit": "4gishyq",
+    "metadata": {
+      "userId": 332,
+      "requestId": "req-ufjxqf5k",
+      "duration": 815,
+      "environment": "staging",
+      "version": "v2.7.8"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.209Z"
+  },
+  {
+    "level": "debug",
+    "message": "Cache invalidation triggered",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T19:23:42.212Z",
+    "traceId": "trace-7eq1c4e9h",
+    "spanId": "span-tpdone",
+    "commit": "ccw3jr7",
+    "metadata": {
+      "userId": 985,
+      "requestId": "req-uy4lhxe9",
+      "duration": 947,
+      "environment": "staging",
+      "version": "v1.1.8"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.236Z"
+  },
+  {
+    "level": "debug",
+    "message": "Background job completed successfully",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T12:14:42.239Z",
+    "traceId": "trace-60gwe5try",
+    "spanId": "span-qjwiuf",
+    "commit": "i18jbmp",
+    "metadata": {
+      "userId": 674,
+      "requestId": "req-b4viadha",
+      "duration": 397,
+      "environment": "staging",
+      "version": "v3.6.9"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.261Z"
+  },
+  {
+    "level": "error",
+    "message": "Backup process initiated",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T07:41:42.263Z",
+    "traceId": "trace-bntn3ap1y",
+    "spanId": "span-lok459",
+    "commit": "x1qhqqp",
+    "metadata": {
+      "userId": 353,
+      "requestId": "req-09hvxkmh",
+      "duration": 379,
+      "environment": "staging",
+      "version": "v5.3.7"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.285Z"
+  },
+  {
+    "level": "debug",
+    "message": "Cache invalidation triggered",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T18:34:42.289Z",
+    "traceId": "trace-9yh75tjqm",
+    "spanId": "span-57pasy",
+    "commit": "np3rmq2",
+    "metadata": {
+      "userId": 132,
+      "requestId": "req-s50ec9um",
+      "duration": 610,
+      "environment": "staging",
+      "version": "v1.2.3"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.314Z"
+  },
+  {
+    "level": "info",
+    "message": "Request processing completed",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-01T21:52:42.317Z",
+    "traceId": "trace-pdmih7rd5",
+    "spanId": "span-t66j2w",
+    "commit": "2rvir4y",
+    "metadata": {
+      "userId": 154,
+      "requestId": "req-rj018neg",
+      "duration": 55,
+      "environment": "staging",
+      "version": "v2.4.5"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.338Z"
+  },
+  {
+    "level": "debug",
+    "message": "User authentication completed",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T10:54:42.341Z",
+    "traceId": "trace-sbrz0sctt",
+    "spanId": "span-ap9dsk",
+    "commit": "po76y49",
+    "metadata": {
+      "userId": 670,
+      "requestId": "req-80uhoqy3",
+      "duration": 867,
+      "environment": "production",
+      "version": "v1.6.9"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.362Z"
+  },
+  {
+    "level": "debug",
+    "message": "Service health check passed",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T12:35:42.365Z",
+    "traceId": "trace-m8hhjyrge",
+    "spanId": "span-4shgat",
+    "commit": "x17azx4",
+    "metadata": {
+      "userId": 635,
+      "requestId": "req-df6kryj4",
+      "duration": 0,
+      "environment": "production",
+      "version": "v4.5.3"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.387Z"
+  },
+  {
+    "level": "error",
+    "message": "Backup process initiated",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T06:15:42.389Z",
+    "traceId": "trace-mrixfmfpd",
+    "spanId": "span-l35yy3",
+    "commit": "qarj8jv",
+    "metadata": {
+      "userId": 949,
+      "requestId": "req-p6wgvuf4",
+      "duration": 185,
+      "environment": "staging",
+      "version": "v1.2.7"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.410Z"
+  },
+  {
+    "level": "error",
+    "message": "SSL certificate renewal required",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T17:18:42.414Z",
+    "traceId": "trace-fose23ain",
+    "spanId": "span-170e0o",
+    "commit": "mu6rdrp",
+    "metadata": {
+      "userId": 113,
+      "requestId": "req-l0je26ii",
+      "duration": 330,
+      "environment": "staging",
+      "version": "v1.0.7"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.435Z"
+  },
+  {
+    "level": "error",
+    "message": "User authentication completed",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T16:38:42.437Z",
+    "traceId": "trace-vd4bx2tz6",
+    "spanId": "span-r1hril",
+    "commit": "4g2cdha",
+    "metadata": {
+      "userId": 695,
+      "requestId": "req-5m517p6g",
+      "duration": 418,
+      "environment": "production",
+      "version": "v3.6.0"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.459Z"
+  },
+  {
+    "level": "debug",
+    "message": "Network timeout occurred",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T17:42:42.462Z",
+    "traceId": "trace-6elz7dfg0",
+    "spanId": "span-gibmjt",
+    "commit": "etmtwb2",
+    "metadata": {
+      "userId": 13,
+      "requestId": "req-6zf8bxbl",
+      "duration": 813,
+      "environment": "production",
+      "version": "v1.0.3"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.483Z"
+  },
+  {
+    "level": "debug",
+    "message": "Service health check passed",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T13:17:42.486Z",
+    "traceId": "trace-i3is8bib9",
+    "spanId": "span-1uljse",
+    "commit": "jdaukbo",
+    "metadata": {
+      "userId": 685,
+      "requestId": "req-nondxqxt",
+      "duration": 674,
+      "environment": "production",
+      "version": "v3.5.4"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.512Z"
+  },
+  {
+    "level": "info",
+    "message": "Database connection established successfully",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-01T21:12:42.514Z",
+    "traceId": "trace-v46njqzb2",
+    "spanId": "span-i9lb1e",
+    "commit": "y27vw61",
+    "metadata": {
+      "userId": 468,
+      "requestId": "req-1r9rn8s7",
+      "duration": 58,
+      "environment": "staging",
+      "version": "v2.3.8"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.537Z"
+  },
+  {
+    "level": "info",
+    "message": "Error parsing JSON payload",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T03:58:42.540Z",
+    "traceId": "trace-kko8om1u4",
+    "spanId": "span-82afz2",
+    "commit": "bottx77",
+    "metadata": {
+      "userId": 829,
+      "requestId": "req-nhrbywg2",
+      "duration": 34,
+      "environment": "production",
+      "version": "v3.6.6"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.560Z"
+  },
+  {
+    "level": "debug",
+    "message": "Service health check passed",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T01:35:42.563Z",
+    "traceId": "trace-2gln6331a",
+    "spanId": "span-yg8rzb",
+    "commit": "acrexgh",
+    "metadata": {
+      "userId": 93,
+      "requestId": "req-yccztlzf",
+      "duration": 776,
+      "environment": "production",
+      "version": "v4.7.1"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.585Z"
+  },
+  {
+    "level": "debug",
+    "message": "Cache invalidation triggered",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-01T20:32:42.588Z",
+    "traceId": "trace-2qb312iw9",
+    "spanId": "span-67khtw",
+    "commit": "mjgvtxh",
+    "metadata": {
+      "userId": 528,
+      "requestId": "req-g1qtzbrw",
+      "duration": 318,
+      "environment": "staging",
+      "version": "v3.5.5"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.617Z"
+  },
+  {
+    "level": "debug",
+    "message": "Failed to connect to external API",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T17:41:42.621Z",
+    "traceId": "trace-e8l295cf0",
+    "spanId": "span-rqq03g",
+    "commit": "v0hp8mf",
+    "metadata": {
+      "userId": 40,
+      "requestId": "req-87d2i0c8",
+      "duration": 642,
+      "environment": "staging",
+      "version": "v4.6.9"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.642Z"
+  },
+  {
+    "level": "error",
+    "message": "Network timeout occurred",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-02T00:21:42.645Z",
+    "traceId": "trace-vd0cw3rxk",
+    "spanId": "span-ubouh5",
+    "commit": "ukucm26",
+    "metadata": {
+      "userId": 316,
+      "requestId": "req-28g4itgs",
+      "duration": 96,
+      "environment": "staging",
+      "version": "v3.7.5"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.667Z"
+  },
+  {
+    "level": "warn",
+    "message": "Network timeout occurred",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T11:27:42.669Z",
+    "traceId": "trace-54kay54ew",
+    "spanId": "span-9whrr2",
+    "commit": "rzq7ldt",
+    "metadata": {
+      "userId": 27,
+      "requestId": "req-7bvj7mgz",
+      "duration": 148,
+      "environment": "production",
+      "version": "v5.7.0"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.698Z"
+  },
+  {
+    "level": "warn",
+    "message": "Memory usage threshold exceeded",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T04:15:42.700Z",
+    "traceId": "trace-ry8fj5y2y",
+    "spanId": "span-zovmep",
+    "commit": "oy3intv",
+    "metadata": {
+      "userId": 452,
+      "requestId": "req-73ppt8tj",
+      "duration": 132,
+      "environment": "production",
+      "version": "v3.4.4"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.722Z"
+  },
+  {
+    "level": "error",
+    "message": "Disk space running low",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-01T20:16:42.726Z",
+    "traceId": "trace-2cm8rvedt",
+    "spanId": "span-r8onwu",
+    "commit": "vkqnfki",
+    "metadata": {
+      "userId": 284,
+      "requestId": "req-6h714fjr",
+      "duration": 133,
+      "environment": "staging",
+      "version": "v5.4.5"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.752Z"
+  },
+  {
+    "level": "debug",
+    "message": "Network timeout occurred",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-01T21:51:42.755Z",
+    "traceId": "trace-tmbrfad4s",
+    "spanId": "span-c52542",
+    "commit": "8lxij7a",
+    "metadata": {
+      "userId": 143,
+      "requestId": "req-dz2zn8wa",
+      "duration": 423,
+      "environment": "production",
+      "version": "v5.7.5"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.784Z"
+  },
+  {
+    "level": "debug",
+    "message": "Error parsing JSON payload",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-01T21:17:42.787Z",
+    "traceId": "trace-0j0dgemzp",
+    "spanId": "span-fd3bhz",
+    "commit": "pkasj5b",
+    "metadata": {
+      "userId": 758,
+      "requestId": "req-ja70yr47",
+      "duration": 440,
+      "environment": "production",
+      "version": "v4.8.4"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.809Z"
+  },
+  {
+    "level": "error",
+    "message": "Backup process initiated",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T06:48:42.811Z",
+    "traceId": "trace-qwfla5p5w",
+    "spanId": "span-12b5fc",
+    "commit": "owyeygp",
+    "metadata": {
+      "userId": 146,
+      "requestId": "req-wtlht7xm",
+      "duration": 867,
+      "environment": "staging",
+      "version": "v3.2.5"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.831Z"
+  },
+  {
+    "level": "warn",
+    "message": "User authentication completed",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T07:06:42.834Z",
+    "traceId": "trace-2gkd8wnbt",
+    "spanId": "span-ilvkcl",
+    "commit": "4keako8",
+    "metadata": {
+      "userId": 23,
+      "requestId": "req-hxtg1jjs",
+      "duration": 722,
+      "environment": "staging",
+      "version": "v3.2.5"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.851Z"
+  },
+  {
+    "level": "warn",
+    "message": "Backup process initiated",
+    "resourceId": "db-primary-002",
+    "timestamp": "2025-07-02T10:54:42.854Z",
+    "traceId": "trace-et77gq7b5",
+    "spanId": "span-4ivc3v",
+    "commit": "f4qtqa1",
+    "metadata": {
+      "userId": 263,
+      "requestId": "req-r6149fnf",
+      "duration": 842,
+      "environment": "production",
+      "version": "v1.3.3"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.871Z"
+  },
+  {
+    "level": "debug",
+    "message": "User authentication completed",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-01T21:41:42.873Z",
+    "traceId": "trace-eysmo8bcu",
+    "spanId": "span-b3sf8r",
+    "commit": "dqhdfcg",
+    "metadata": {
+      "userId": 277,
+      "requestId": "req-9luh76y8",
+      "duration": 977,
+      "environment": "production",
+      "version": "v1.7.5"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.892Z"
+  },
+  {
+    "level": "warn",
+    "message": "Rate limit exceeded for user",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T04:18:42.894Z",
+    "traceId": "trace-ilq58mm9s",
+    "spanId": "span-8iavwe",
+    "commit": "4ceyyf3",
+    "metadata": {
+      "userId": 109,
+      "requestId": "req-n7zytjvn",
+      "duration": 986,
+      "environment": "staging",
+      "version": "v1.2.9"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.913Z"
+  },
+  {
+    "level": "debug",
+    "message": "User authentication completed",
+    "resourceId": "api-gateway-001",
+    "timestamp": "2025-07-02T13:10:42.915Z",
+    "traceId": "trace-gkgoh4v10",
+    "spanId": "span-0yoghd",
+    "commit": "skpn4yc",
+    "metadata": {
+      "userId": 880,
+      "requestId": "req-q817szb9",
+      "duration": 901,
+      "environment": "staging",
+      "version": "v3.6.9"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.932Z"
+  },
+  {
+    "level": "error",
+    "message": "Failed to connect to external API",
+    "resourceId": "worker-3456",
+    "timestamp": "2025-07-02T16:38:42.934Z",
+    "traceId": "trace-9eo4trpa6",
+    "spanId": "span-agl0wo",
+    "commit": "fxnyee8",
+    "metadata": {
+      "userId": 502,
+      "requestId": "req-qdlxsvu8",
+      "duration": 260,
+      "environment": "production",
+      "version": "v4.4.1"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.951Z"
+  },
+  {
+    "level": "info",
+    "message": "Backup process initiated",
+    "resourceId": "server-5678",
+    "timestamp": "2025-07-02T12:42:42.954Z",
+    "traceId": "trace-3cvekfdk7",
+    "spanId": "span-4mgz44",
+    "commit": "12b44nn",
+    "metadata": {
+      "userId": 308,
+      "requestId": "req-m0i5oesp",
+      "duration": 835,
+      "environment": "staging",
+      "version": "v2.6.3"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.973Z"
+  },
+  {
+    "level": "error",
+    "message": "Service health check passed",
+    "resourceId": "server-9012",
+    "timestamp": "2025-07-02T05:20:42.976Z",
+    "traceId": "trace-3wqwtofmu",
+    "spanId": "span-tlhazx",
+    "commit": "t8ogrny",
+    "metadata": {
+      "userId": 218,
+      "requestId": "req-lkonia9r",
+      "duration": 407,
+      "environment": "production",
+      "version": "v4.7.3"
+    },
+    "_ingested_at": "2025-07-02T19:24:42.994Z"
+  }
+]
