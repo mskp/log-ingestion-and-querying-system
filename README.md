@@ -2,6 +2,10 @@
 
 A full-stack application for ingesting, storing, and querying log data in real-time. Built with Express.js backend and Next.js frontend, featuring WebSocket integration for live updates and analytics dashboard.
 
+## 🎥 Demo Video
+
+Watch the system in action: [Log Ingestion & Querying System Demo](https://youtu.be/up6AdkWrcw4)
+
 ## 🚀 Features
 
 ### Core Features
