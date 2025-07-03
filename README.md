@@ -1,6 +1,6 @@
 # Log Ingestion and Querying System
 
-A full-stack application for ingesting, storing, and querying log data. Built with Express.js backend and Next.js frontend.
+A full-stack application for ingesting, storing, and querying log data. Built with Express.js backend and React.js frontend.
 
 ## 🎥 Demo Video
 
