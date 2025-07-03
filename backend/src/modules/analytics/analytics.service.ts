@@ -1,11 +1,11 @@
-import type { IAnalytics, ILogFilters, LogLevel } from '../../common/types/log.types';
+import type { Analytics, LogFilters, LogLevel } from '../../common/types/log.types';
 import type { LogsService } from '../../modules/logs/logs.service';
 import { InternalServerErrorException } from '../../common/exceptions/http.exception';
 
 export class AnalyticsService {
   constructor(private readonly logsService: LogsService) {}
 
-  async getAnalytics(filters: ILogFilters): Promise<IAnalytics> {
+  async getAnalytics(filters: LogFilters): Promise<Analytics> {
     try {
       const logs = await this.logsService.findAll();
       const filteredLogs = this.logsService.applyFilters(logs, filters);
